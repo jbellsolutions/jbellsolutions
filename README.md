@@ -59,4 +59,4 @@ Projects move fast here. This README is the curated map, not the full inventory.
 - [X / @jbellsolutions](https://x.com/jbellsolutions)
 - [GitHub](https://github.com/jbellsolutions)
 - [Your AI Guy](https://your-ai-guy-production.up.railway.app)
-- [hello@youraiguy.com](mailto:hello@youraiguy.com)
+- [justin@usingaitoscale.com](mailto:justin@usingaitoscale.com)

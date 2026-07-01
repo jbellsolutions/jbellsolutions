@@ -24,6 +24,20 @@ Now building **agent systems**, **business operating systems**, and **AI deliver
 - 🎥 **[Claude Content Factory](https://github.com/jbellsolutions/claude-content-factory)** - Turns recordings into lead magnets, clips, and social-ready content packs
 - 🌐 **[Super Saiyan Browser](https://github.com/jbellsolutions/super-saiyan-browser)** - Routes browser automation to the right backend for agent execution
 
+## New Since Last Update
+
+- 🔒 **Experts GTM Flywheel Private** - Sanitized GTM flywheel system for turning authority content into audience growth, pipeline, and owned distribution
+- 🔒 **AI Guy Flywheel Private** - Personal-brand content engine for repurposing live sessions into multi-channel assets and lead flow
+- 🧠 **[Single Brain Template](https://github.com/jbellsolutions/single-brain-template)** - Config-driven starter for spinning up a new Single Brain Hermes agent
+- 🔒 **SpeakerAgent API Private** - Private API and service layer behind speaking-opportunity and speaker workflow products
+- 🔒 **Operator Vault Private** - Shared memory and operator knowledge vault for persistent agent workflows
+- 🔒 **The Operator Private** - 24/7 cloud operations system coordinating agent execution, browser tasks, and messaging channels
+- 🎙️ **[SpeakerAgent CLI](https://github.com/jbellsolutions/speakeragent-cli)** - CLI and docs package for the SpeakerAgent.ai podcasts API
+- 🔒 **SpeakerAgent Flywheel Private** - Client-specific authority flywheel built on reusable content and distribution infrastructure
+- 🔒 **AGI-1 Private** - Internal self-healing and self-learning framework for reinforcing repos, prompts, and agent workflows
+- 🔒 **AI Integraterz Hub Private** - Private marketing-site and internal-dashboard codebase for AI Integraterz
+- 🌐 **[Your AI Guy Site](https://github.com/jbellsolutions/your-ai-guy-site)** - Public site for your open-source repo index, coaching offer, and builder-placement pitch
+
 ## Current Projects
 
 ### Agent Control Planes

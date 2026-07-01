@@ -26,7 +26,7 @@ Now building **agent systems**, **business operating systems**, and **AI deliver
 
 ## New Since Last Update
 
-- 🔒 **Experts GTM Flywheel Private** - Sanitized GTM flywheel system for turning authority content into audience growth, pipeline, and owned distribution
+- 🚀 **[Experts GTM Flywheel](https://github.com/jbellsolutions/experts-gtm-flywheel)** - Self-hosted expert GTM system across LinkedIn, SmartLead, newsletter, and an optional SpeakerAgent podcast lane
 - 🔒 **AI Guy Flywheel Private** - Personal-brand content engine for repurposing live sessions into multi-channel assets and lead flow
 - 🧠 **[Single Brain Template](https://github.com/jbellsolutions/single-brain-template)** - Config-driven starter for spinning up a new Single Brain Hermes agent
 - 🔒 **SpeakerAgent API Private** - Private API and service layer behind speaking-opportunity and speaker workflow products

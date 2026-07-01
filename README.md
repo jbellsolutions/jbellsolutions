@@ -4,6 +4,8 @@
 
 Now building **agent systems**, **business operating systems**, and **AI delivery workflows** for sales, operations, and execution.
 
+If you're here because you want this installed, want help using one of these repos, or want the whole RevOps / AI-ops side taken off your plate, book time here: [cal.com/usingaitoscale/aiintegraterz](https://cal.com/usingaitoscale/aiintegraterz). If you want more than help, we can plug an AI Integrator or AI Operator into your business, part-time or full-time, manage them until you're ready to bring it in-house, or keep running it long-term. Not an agency retainer model. A real human who learns your business and works proactively for you.
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

@@ -33,6 +33,8 @@ Quick walkthrough: [Watch on Loom](https://www.loom.com/share/6ffcfa3212b54fd887
 ## New Since Last Update
 
 - 🚀 **[Experts GTM Flywheel](https://github.com/jbellsolutions/experts-gtm-flywheel)** - Self-hosted expert GTM system across LinkedIn, SmartLead, newsletter, and an optional SpeakerAgent podcast lane
+- 🧪 **[Reacher Lead Dashboard Public](https://github.com/jbellsolutions/reacher-lead-dashboard-public)** - Sanitized Flask dashboard for verifying lead CSVs with a self-hosted Reacher API
+- 🔒 **Reacher Lead Dashboard Private** - Internal deployment-specific lead verification dashboard with private backend configuration
 - 🔒 **AI Guy Flywheel Private** - Personal-brand content engine for repurposing live sessions into multi-channel assets and lead flow
 - 🧠 **[Single Brain Template](https://github.com/jbellsolutions/single-brain-template)** - Config-driven starter for spinning up a new Single Brain Hermes agent
 - 🔒 **SpeakerAgent API Private** - Private API and service layer behind speaking-opportunity and speaker workflow products

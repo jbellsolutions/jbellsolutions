@@ -32,6 +32,8 @@ Quick walkthrough: [Watch on Loom](https://www.loom.com/share/6ffcfa3212b54fd887
 
 ## New Since Last Update
 
+- 🤖 **[Super Duper Agent Public](https://github.com/jbellsolutions/super-duper-agent-public)** - Sanitized public starter for a local desktop AI agent workforce
+- 🔒 **Super Duper Agent Private** - Internal AI Guy Super Agent Workforce app with private Hermes, OpenRouter, and desktop runtime configuration
 - 🚀 **[Experts GTM Flywheel](https://github.com/jbellsolutions/experts-gtm-flywheel)** - Self-hosted expert GTM system across LinkedIn, SmartLead, newsletter, and an optional SpeakerAgent podcast lane
 - 🧪 **[Reacher Lead Dashboard Public](https://github.com/jbellsolutions/reacher-lead-dashboard-public)** - Sanitized Flask dashboard for verifying lead CSVs with a self-hosted Reacher API
 - 🔒 **Reacher Lead Dashboard Private** - Internal deployment-specific lead verification dashboard with private backend configuration

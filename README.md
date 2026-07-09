@@ -32,6 +32,8 @@ Quick walkthrough: [Watch on Loom](https://www.loom.com/share/6ffcfa3212b54fd887
 
 ## New Since Last Update
 
+- 🧪 **[SDA Share Loop Test Public](https://github.com/jbellsolutions/sda-share-loop-test-public)** - Sanitized public Share Loop Test agent for AI Guy Super Agent Workforce installs
+- 🔒 **SDA Share Loop Test Private** - Original private Share Loop Test agent repo for validating internal GitHub install and update loops
 - 🧬 **[AGI-1 Vault Public](https://github.com/jbellsolutions/agi-1-vault-public)** - Sanitized public Obsidian vault template for AGI-1 heartbeat memory
 - 🔒 **AGI-1 Vault Private** - Live operational AGI-1 genome vault with private heartbeat events, repo activity, Slack actions, and council outputs
 - 🤖 **[Super Duper Agent Public](https://github.com/jbellsolutions/super-duper-agent-public)** - Sanitized public starter for a local desktop AI agent workforce

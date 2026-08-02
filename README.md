@@ -32,6 +32,10 @@ Quick walkthrough: [Watch on Loom](https://www.loom.com/share/6ffcfa3212b54fd887
 
 ## New Since Last Update
 
+- 📬 **[Email Delivery edcom Public](https://github.com/jbellsolutions/email-delivery-edcom-public)** - Sanitized starter for self-hosted EmailDelivery.com CE deliverability infrastructure
+- 🔒 **Email Delivery edcom Private** - Live self-hosted ESP/MTA deployment kit with private server, DNS, admin, route, and customer configuration
+- ✍️ **[Top 1% Copywriting Archive](https://github.com/jbellsolutions/top-1-percent-copywriting-archive)** - Integrity-verifiable direct-response research library for agent retrieval workflows
+- 📚 **[Overdelivery List Buying Research](https://github.com/jbellsolutions/overdelivery-list-buying-research)** - Evidence-backed operating system for buying audience access, testing placements, and building a house file
 - 🧪 **[SDA Share Loop Test Public](https://github.com/jbellsolutions/sda-share-loop-test-public)** - Sanitized public Share Loop Test agent for AI Guy Super Agent Workforce installs
 - 🔒 **SDA Share Loop Test Private** - Original private Share Loop Test agent repo for validating internal GitHub install and update loops
 - 🧬 **[AGI-1 Vault Public](https://github.com/jbellsolutions/agi-1-vault-public)** - Sanitized public Obsidian vault template for AGI-1 heartbeat memory

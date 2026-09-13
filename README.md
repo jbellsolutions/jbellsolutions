@@ -1,15 +1,19 @@
 <div align="center">
 
-### YOUR AI GUY · JUSTIN BELLWARE
+### REVENUE PARTNERS · YOUR AI GUY
 
-# Put an AI employee to work on the part of your business closest to revenue.
+# What's the point of AI if it's not generating revenue for you?
 
-Self-installing, approval-gated AI agents that work from a private [Orgo](https://orgo.ai?r=aiguy) computer, learn the business, and bring the next decision back to a human.
+Put an AI employee to work on the nine parts of your business closest to revenue—the nine open loops almost every business has where money is falling through the cracks.
+
+**If it doesn't make money, it doesn't make sense.**
+
+Self-installing, approval-gated AI agents work from a private [Orgo](https://orgo.ai?r=aiguy) computer, learn the business, and bring the next decision back to a human.
 
 [![Get the free Revenue Partner and Partner Kit](https://img.shields.io/badge/GET_THE_FREE_REVENUE_PARTNER_%2B_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
 [![Install Revenue Partner for Orgo](https://img.shields.io/badge/INSTALL_REVENUE_PARTNER_FOR_ORGO-0F766E?style=for-the-badge)](https://github.com/jbellsolutions/revenue-partner-orgo)
 
-[![Revenue Partner connects revenue, operations, calendar, inbox, customers, proposals, and daily priorities](https://raw.githubusercontent.com/jbellsolutions/revenue-partner-orgo/main/docs/assets/revenue-partner-hero-v2.webp)](https://usingaitoscale.com/revenue-partner-kit/)
+[![A Revenue Partner coordinates nine open revenue loops across opportunities, outreach, follow-up, pipeline, proposals, partnerships, customers, reporting, and operations](docs/assets/revenue-partner-nine-loops.webp)](https://usingaitoscale.com/revenue-partner-kit/)
 
 **OPEN-SOURCE START · ONE-LINK INSTALLATION · SLACK + TELEGRAM · PRIVATE BUSINESS CONTEXT · HUMAN APPROVAL**
 
@@ -68,17 +72,23 @@ Use the included kickstart to choose the first job, load the business context, c
 
 [**Get the Partner Kit + kickstart →**](https://usingaitoscale.com/revenue-partner-kit/) · [**Book an implementation conversation →**](https://cal.com/usingaitoscale/github-request-private-access)
 
-## Our Favorite Repository Is the Super Browser Evolution
+## Our Favorite Repository Is Super Browser
+
+### Super Browser 3.0 Is Coming
+
+**A major launch is on the way.** [SuperBrowser.online](https://superbrowser.online/waitlist) will bring the complete dashboard, an AI agent for every profile, workflows, files, scraped documentation, tool visibility, and visible execution together in one place.
+
+[![Join the Super Browser 3.0 waitlist](https://img.shields.io/badge/JOIN_THE_SUPER_BROWSER_3.0_WAITLIST-1F5B43?style=for-the-badge)](https://superbrowser.online/waitlist)
 
 One idea has kept evolving: give an agent the right browser for the job, make its plan visible, and keep consequential actions behind human approval.
 
-[![Super Browser architecture routing Chat, Workflows, Templates, and Files across 15 browser, computer, data, scraping, and app-action tools with human approval and verification](docs/assets/super-browser-architecture.webp)](https://cal.com/usingaitoscale/github-request-private-access)
+[![Super Browser architecture routing Chat, Workflows, Templates, and Files across 15 browser, computer, data, scraping, and app-action tools with human approval and verification](docs/assets/super-browser-architecture.webp)](https://superbrowser.online/waitlist)
 
 1. **[Super Saiyan Browser · Public V1](https://github.com/jbellsolutions/super-saiyan-browser)** — provider routing, human approvals, durable artifacts, and verification in one public starting point.
 2. **Coordinated Browser Agents · V2 groundwork** — private intermediate work added persistent state, coordinated agents, shared context, and tighter run control.
 3. **Super Browser 3.0 · Coming soon** — a complete dashboard with chat, an AI agent for every profile, scraped documentation in one place, workflows, templates, files, tool visibility, and visible execution.
 
-[**Explore public V1 →**](https://github.com/jbellsolutions/super-saiyan-browser) · [**Request Super Browser 3.0 access now →**](https://cal.com/usingaitoscale/github-request-private-access)
+[**Explore public V1 →**](https://github.com/jbellsolutions/super-saiyan-browser) · [**Join the Super Browser 3.0 waitlist →**](https://superbrowser.online/waitlist)
 
 ## Big Hits Coming Soon
 

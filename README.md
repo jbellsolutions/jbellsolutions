@@ -59,6 +59,26 @@ Give one leader the context and authority to coordinate a complete AI team.
 
 [**See the agent →**](https://github.com/jbellsolutions/ai-cofounder-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/ai-cofounder-orgo/blob/main/START-HERE.md)
 
+### 05 · Affiliate Manager
+
+Build a partner channel that keeps recruiting, onboarding, activating, and growing revenue-producing relationships.
+
+- Research and qualify potential affiliates against the approved partner profile.
+- Prepare outreach, onboarding kits, campaign briefs, reporting, and reactivation plans.
+- Keep terms, commissions, payouts, and external messages under human approval.
+
+[**See the agent →**](https://github.com/jbellsolutions/affiliate-manager-agent) · [**Start the walkthrough →**](https://github.com/jbellsolutions/affiliate-manager-agent/blob/main/START-HERE.md)
+
+### 06 · Head of Ops for Orgo
+
+Give the business one dependable operator who clears the desk, moves the work, and protects the owner's time.
+
+- Sort inboxes, prepare meetings, organize requests, and keep the next action visible.
+- Coordinate calendars, documents, proposals, projects, deadlines, and business tools.
+- Carry out approved actions from a private, visible Orgo computer with persistent context.
+
+[**See the agent →**](https://github.com/jbellsolutions/head-of-ops-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/head-of-ops-orgo/blob/main/START-HERE.md)
+
 ## How it works
 
 1. **Pick one business job.** Start with the revenue or operating loop where dropped work is already costing time or money.

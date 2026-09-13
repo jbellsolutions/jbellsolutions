@@ -68,24 +68,25 @@ Use the included kickstart to choose the first job, load the business context, c
 
 [**Get the Partner Kit + kickstart →**](https://usingaitoscale.com/revenue-partner-kit/) · [**Book an implementation conversation →**](https://cal.com/usingaitoscale/github-request-private-access)
 
-## Justin's Favorite Repository: The Super Browser Evolution
+## Our Favorite Repository Is the Super Browser Evolution
 
 One idea has kept evolving: give an agent the right browser for the job, make its plan visible, and keep consequential actions behind human approval.
 
-[![Super Browser 3.0 dashboard showing chat, connected tools, visible plans, workflows, templates, files, and run controls](docs/assets/super-browser-3-dashboard.webp)](https://cal.com/usingaitoscale/github-request-private-access)
+[![Super Browser architecture routing Chat, Workflows, Templates, and Files across 15 browser, computer, data, scraping, and app-action tools with human approval and verification](docs/assets/super-browser-architecture.webp)](https://cal.com/usingaitoscale/github-request-private-access)
 
-1. **[Super Saiyan Browser · Public V1](https://github.com/jbellsolutions/super-saiyan-browser)** — provider routing, human approvals, MCP support, durable artifacts, and verification in one public starting point.
+1. **[Super Saiyan Browser · Public V1](https://github.com/jbellsolutions/super-saiyan-browser)** — provider routing, human approvals, durable artifacts, and verification in one public starting point.
 2. **Coordinated Browser Agents · V2 groundwork** — private intermediate work added persistent state, coordinated agents, shared context, and tighter run control.
-3. **Super Browser 3.0 · Coming soon** — a complete dashboard with chat, an AI agent for every profile, scraped documentation in one place, workflows, templates, files, tool status, MCP, API access, and visible execution.
+3. **Super Browser 3.0 · Coming soon** — a complete dashboard with chat, an AI agent for every profile, scraped documentation in one place, workflows, templates, files, tool visibility, and visible execution.
 
 [**Explore public V1 →**](https://github.com/jbellsolutions/super-saiyan-browser) · [**Request Super Browser 3.0 access now →**](https://cal.com/usingaitoscale/github-request-private-access)
 
 ## Big Hits Coming Soon
 
-- **[Orgo](https://orgo.ai?r=aiguy) AI Guy Bot · Private preview** — chat with cloud agents, delegate tasks, and watch the work happen on live remote screens. [Request access →](https://cal.com/usingaitoscale/github-request-private-access)
-- **GrokBot · Private preview** — an approval-gated funding-partnerships and affiliate-management experience. [Request access →](https://cal.com/usingaitoscale/github-request-private-access)
+### [Orgo](https://orgo.ai?r=aiguy) AI Guy Bot · Private Preview
 
-Public releases are coming soon.
+Chat with cloud agents, delegate tasks, and watch the work happen on live remote screens. Public release coming soon.
+
+### [Orgo AI Guy — Request Access →](https://cal.com/usingaitoscale/github-request-private-access)
 
 ## About Justin
 

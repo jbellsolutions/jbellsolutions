@@ -1,42 +1,97 @@
-# Hi, I'm Justin 👋
+<div align="center">
 
-📍 **Tampa, FL** | 🤖 **Your AI Guy** | 🚀 **15+ years GTM, BizOps, GrowthOps**
+### YOUR AI GUY · JUSTIN BELLWARE
 
-Now building **agent systems**, **business operating systems**, and **AI delivery workflows** for sales, operations, and execution.
+# Put an AI employee to work on the part of your business closest to revenue.
 
-If you're here because you want this installed, want help using one of these repos, or want the whole RevOps / AI-ops side taken off your plate, book time here: [cal.com/usingaitoscale/aiintegraterz](https://cal.com/usingaitoscale/aiintegraterz). If you want more than help, we can plug an AI Integrator or AI Operator into your business, part-time or full-time, manage them until you're ready to bring it in-house, or keep running it long-term. Not an agency retainer model. A real human who learns your business and works proactively for you.
+Self-installing, approval-gated AI agents that work from a private Orgo computer, learn the business, and bring the next decision back to a human.
 
-[![Watch: How We Grew LinkedIn to 10k Signals](https://raw.githubusercontent.com/jbellsolutions/experts-gtm-flywheel/main/docs/assets/how-we-grew-linkedin-to-10k-signals-poster.jpg)](https://www.loom.com/share/6ffcfa3212b54fd88701f627cd55fe8d)
+[![Get the free Revenue Partner and Partner Kit](https://img.shields.io/badge/GET_THE_FREE_REVENUE_PARTNER_%2B_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
+[![Install Revenue Partner for Orgo](https://img.shields.io/badge/INSTALL_REVENUE_PARTNER_FOR_ORGO-0F766E?style=for-the-badge)](https://github.com/jbellsolutions/revenue-partner-orgo)
 
-Quick walkthrough: [Watch on Loom](https://www.loom.com/share/6ffcfa3212b54fd88701f627cd55fe8d)
+[![Revenue Partner connects revenue, operations, calendar, inbox, customers, proposals, and daily priorities](https://raw.githubusercontent.com/jbellsolutions/revenue-partner-orgo/main/docs/assets/revenue-partner-hero-v2.webp)](https://usingaitoscale.com/revenue-partner-kit/)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude_Code-121212?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0B0B?style=flat-square&logo=railway&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+**OPEN-SOURCE START · ONE-LINK INSTALLATION · SLACK + TELEGRAM · PRIVATE BUSINESS CONTEXT · HUMAN APPROVAL**
 
-## Start Here
+</div>
 
-- 🧠 **[Hermes Super Agent](https://github.com/jbellsolutions/hermes-super-agent)** - Multi-agent fleet fabric for orchestrating specialist agents from one control plane
-- 🏢 **[Ops Home Base](https://github.com/jbellsolutions/ops-home-base)** - Operations command center for ClickUp, CRM, Gmail, and Calendar workflows
-- 🧱 **[Business OS Template](https://github.com/jbellsolutions/business-os-template)** - Reusable AI business operating system template for verticalized deployments
-- 📬 **[AI Integraterz Cold Email](https://github.com/jbellsolutions/ai-integraterz-cold-email)** - Personalized cold email system with agent orchestration and reply-aware flows
-- 🔁 **[Autoresearch General](https://github.com/jbellsolutions/autoresearch-general)** - Self-improving optimization loop for prompts, code, outreach, and content
-- 🎥 **[Claude Content Factory](https://github.com/jbellsolutions/claude-content-factory)** - Turns recordings into lead magnets, clips, and social-ready content packs
-- 🌐 **[Super Saiyan Browser](https://github.com/jbellsolutions/super-saiyan-browser)** - Routes browser automation to the right backend for agent execution
+Most businesses do not need another AI tool to manage. They need one capable employee with a clear job, the right context, and boundaries they can trust. Start with the job closest to revenue, prove it works, and expand only when the first loop is useful.
 
-## All Repos By Category
+## Choose the AI employee closest to the job
 
-Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archived**. Private repos are intentionally listed too; if you do not have access, GitHub may show a 404.
+### 01 · Revenue Partner for Orgo
+
+Find opportunities, keep revenue work moving, and make the next best action obvious.
+
+- Qualify opportunities across reactivation, outbound, partners, and content signals.
+- Keep proposals, pipeline, commitments, and follow-up from disappearing.
+- Return with evidence, priorities, and decisions instead of another dashboard.
+
+[**See the agent →**](https://github.com/jbellsolutions/revenue-partner-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/revenue-partner-orgo/blob/main/START-HERE.md)
+
+### 02 · Go-to-Market for Orgo
+
+Turn a clear offer into qualified conversations, partnerships, proposals, and revenue.
+
+- Research the market and identify the accounts, audiences, and partners most likely to fit.
+- Prepare campaigns and content without losing the approved positioning.
+- Coordinate proposals, replies, CRM updates, and the next human follow-up.
+
+[**See the agent →**](https://github.com/jbellsolutions/go-to-market-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/go-to-market-orgo/blob/main/START-HERE.md)
+
+### 03 · Operator for Orgo
+
+Turn priorities into clear plans, owned actions, reliable follow-through, and calmer days.
+
+- Organize meetings, messages, ideas, and requests into priorities and owners.
+- Coordinate calendars, inboxes, projects, documents, proposals, and reminders.
+- Surface what is late, blocked, or waiting for a decision before it becomes a fire.
+
+[**See the agent →**](https://github.com/jbellsolutions/operator-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/operator-orgo/blob/main/START-HERE.md)
+
+### 04 · AI Co-Founder for Orgo
+
+Give one leader the context and authority to coordinate a complete AI team.
+
+- Turn business outcomes into priorities, scorecards, decisions, and owned work.
+- Coordinate operations, revenue, finance, research, and specialist agents.
+- Keep delegation, review, permissions, and consequential actions under human control.
+
+[**See the agent →**](https://github.com/jbellsolutions/ai-cofounder-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/ai-cofounder-orgo/blob/main/START-HERE.md)
+
+## How it works
+
+1. **Pick one business job.** Start with the revenue or operating loop where dropped work is already costing time or money.
+2. **Give the repository to a setup agent.** Codex, Claude Code, or another capable setup agent reads the included instructions and handles the technical work.
+3. **Prove the real handoff.** Launch the agent on Orgo, connect only the tools you approve, and finish when a real Slack or Telegram message gets a verified response.
+
+The agent can research, organize, analyze, and prepare work inside its approved workspace. Sending, publishing, spending, changing customer records, inviting people, or widening permissions stops for human approval.
+
+## Start free. Make the first agent useful.
+
+The public agents and their documentation are free. The **Revenue Partner Kit** adds the complete training and preparation material. Start a **seven-day free trial** to get the implementation kickstart, weekly live builds, coaching, training, and support. Continuing membership is **$99/month** and can be cancelled anytime.
+
+Orgo, model usage, and other third-party services are separate. The agents run on accounts you control, and private credentials or business context never belong in a public repository.
+
+[![Get the free Revenue Partner and Partner Kit](https://img.shields.io/badge/START_WITH_THE_FREE_PARTNER_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
+
+## Want us to help install it?
+
+Use the included kickstart to choose the first job, load the business context, connect approved tools, and prove the agent works. For a larger implementation, an AI Integrator or AI Operator can help build and run the system with you.
+
+[**Get the Partner Kit + kickstart →**](https://usingaitoscale.com/revenue-partner-kit/) · [**Book an implementation conversation →**](https://cal.com/usingaitoscale/aiintegraterz)
+
+## About Justin
+
+I'm Justin Bellware—**Your AI Guy** in Tampa, Florida. I bring 15+ years across GTM, BizOps, GrowthOps, sales, and team building to one practical goal: make AI useful enough to do real work inside a real business.
+
+## Complete repository index
+
+Snapshot refreshed **September 12, 2026**: **219 repositories** — **120 public**, **99 private**, **203 original**, **16 forks**, and **2 archived**. Every category is collapsed so the strongest buyer-facing agents stay first. Private repositories are intentionally listed; visitors without access will see a 404.
 
 <!-- REPO-INDEX:START -->
-<details open>
-<summary><strong>Core Agent Systems & Control Planes</strong> (41)</summary>
+<details>
+<summary><strong>Core Agent Systems & Control Planes</strong> (44)</summary>
 
 - **[Agent Company](https://github.com/jbellsolutions/agent-company)** · `public` - Drop-in multi-agent company: Meta-Orchestrator → CEO → Leads → Workers. One command to stand up a complete AI team.
 - **[Agent Os](https://github.com/jbellsolutions/agent-os)** · `private` - One agent. One state. Every channel. Daily-evolving. Hermes + OpenClaw + AGI-1 + voice, vendored and auto-updated.
@@ -45,6 +100,7 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 - **[Agentstack Fleet Builder](https://github.com/jbellsolutions/agentstack-fleet-builder)** · `public`
 - **[Agi 1 Vault](https://github.com/jbellsolutions/agi-1-vault)** · `private` - AGI-1 living genome — Obsidian vault, synced live from the heartbeat
 - **[Agi Codex](https://github.com/jbellsolutions/agi-codex)** · `private`
+- **[Ai Cofounder Orgo](https://github.com/jbellsolutions/ai-cofounder-orgo)** · `public` - A private AI Co-Founder and coordinated leadership team for Orgo, powered by Hermes profiles, Kanban, and authenticated A2A.
 - **[Autogrok](https://github.com/jbellsolutions/AutoGrok)** · `public`
 - **[Autogroq](https://github.com/jbellsolutions/AutoGroq)** · `public` - AutoGroq is a groundbreaking tool that revolutionizes the way users interact with Autogen™ and other AI assistants. By dynamically generating tailo...
 - **[Claude Code Framework Original](https://github.com/jbellsolutions/Claude-Code-framework-original)** · `private` - Claude Code framework original
@@ -58,6 +114,7 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 - **[Hermes Agent](https://github.com/jbellsolutions/hermes-agent)** · `public` - The agent that grows with you
 - **[Hermes Desktop Os1](https://github.com/jbellsolutions/hermes-desktop-os1)** · `public` - Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts
 - **[Hermes Mastery Hub](https://github.com/jbellsolutions/hermes-mastery-hub)** · `public`
+- **[Hermes Orgo Studio](https://github.com/jbellsolutions/hermes-orgo-studio)** · `private` - Independent Mac workspace for persistent Hermes agents on a dedicated Orgo computer. Guided installation, collaboration, approvals, and remote screens.
 - **[Hermes Super Agent](https://github.com/jbellsolutions/hermes-super-agent)** · `public` - Multi-agent fleet fabric on top of Hermes — A2A protocol + NATS event bus + Temporal durable workflows + Tier 2 VPS spawning. Run a fleet of specia...
 - **[Hermes Super Agent Internal](https://github.com/jbellsolutions/hermes-super-agent-internal)** · `private` - Internal working copy of hermes-super-agent. Contains the full deployments inventory + vault/projects/ that are scrubbed from the public copy. Sour...
 - **[Hermes Super Agent Private](https://github.com/jbellsolutions/hermes-super-agent-private)** · `private` - Private encrypted bootstrap overlay for Justin's Hermes Super Agent profiles
@@ -69,6 +126,7 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 - **[Notion Super Agent Phase 3](https://github.com/jbellsolutions/notion-super-agent-phase-3)** · `private` - Phase 3 mirror of notion-architect-and-agent-swarm — adds the optional Notion Super Agent + Tutor daily-ingest fleet as a Phase 3 add-on
 - **[Opengpts](https://github.com/jbellsolutions/opengpts)** · `public`
 - **[Openswarm Builder](https://github.com/jbellsolutions/openswarm-builder)** · `public` - Standalone OpenSwarm Agent Builder — design loop, approval gate, fleet materialization
+- **[Orgo Ai Guy Bot](https://github.com/jbellsolutions/orgo-ai-guy-bot)** · `private` - Locked-instance, self-healing Hermes desktop agent for Orgo computers.
 - **[Sda Share Loop Test](https://github.com/jbellsolutions/sda-share-loop-test)** · `private` - Share Loop Test — an AI Guy Super Agent Workforce agent. Paste this URL into "From GitHub or Folder" to install.
 - **[Sda Share Loop Test Public](https://github.com/jbellsolutions/sda-share-loop-test-public)** · `public` - Sanitized public Share Loop Test agent for AI Guy Super Agent Workforce
 - **[Single Brain](https://github.com/jbellsolutions/single-brain)** · `public` - Autonomous dual-agent AI stack (OpenClaw + Hermes) on DigitalOcean. Slack + Telegram channels, DeepSeek V4 via OpenRouter, git-backed vault memory....
@@ -82,9 +140,12 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 
 </details>
 
-<details open>
-<summary><strong>GTM, Sales, Outreach & RevOps</strong> (58)</summary>
+<details>
+<summary><strong>GTM, Sales, Outreach & RevOps</strong> (69)</summary>
 
+- **[Affiliate Manager](https://github.com/jbellsolutions/affiliate-manager)** · `private` - Internal Hermes agent for affiliate and cold-email operations.
+- **[Affiliate Manager Agent](https://github.com/jbellsolutions/affiliate-manager-agent)** · `public` - Guarded affiliate operator for recruiting, onboarding, activation, attribution review, reporting, and reactivation.
+- **[Ai Guy Go To Market](https://github.com/jbellsolutions/ai-guy-go-to-market)** · `public` - Self-hosted Hermes go-to-market agent with its deployment and working vault.
 - **[Ai Guy Prospecting Extension](https://github.com/jbellsolutions/ai-guy-prospecting-extension)** · `public`
 - **[Ai Integraterz Cold Email](https://github.com/jbellsolutions/ai-integraterz-cold-email)** · `public` - Opus-orchestrated multi-agent system for personalized cold email at scale on Smartlead. Slack-driven, reply-aware, niche × offer × variant campaign...
 - **[Ai Integraterz Training Homebase](https://github.com/jbellsolutions/AI-Integraterz-Training-HomeBase)** · `private` - One 2-hour training video → 32 production-ready content pieces. Course, emails, sales pages, social calendars, video plans, community content. Buil...
@@ -96,8 +157,12 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 - **[Cold Email Agent](https://github.com/jbellsolutions/cold-email-agent)** · `private` - Using AI to Scale — Autonomous Cold Email System with 16 AI Agents
 - **[Cold Email Infrastructure](https://github.com/jbellsolutions/cold-email-infrastructure)** · `private` - Hermes — cold-email sending infrastructure (Winnr API, GLM-5.2 copy, conversational fleet agent, Railway-hosted)
 - **[Ellie Ashley Med Spa](https://github.com/jbellsolutions/ellie-ashley-med-spa)** · `private` - Ellie & Ashley Med Spa — wholesale site, podcast pipeline, marketing OS
+- **[Event Lead Ops Agent](https://github.com/jbellsolutions/event-lead-ops-agent)** · `public` - Approval-gated Facebook Marketplace and Craigslist lead operations for an event business.
 - **[Experts Gtm Flywheel](https://github.com/jbellsolutions/experts-gtm-flywheel)** · `public` - The Expert's Go-To-Market Flywheel — self-hosted content + lead engine (LinkedIn · cold email · newsletter) with an interactive onboarding assistan...
 - **[Funnel Flow Ai](https://github.com/jbellsolutions/funnel-flow-ai)** · `private` - Autonomous GHL funnel builder — browser automation, template cloning, full sales funnel builds
+- **[Funding Director Agent](https://github.com/jbellsolutions/funding-director-agent)** · `public` - Guarded funding operator for intake, operational underwriting, product strategy, approved submissions, offer comparison, and follow-through.
+- **[Funding Director Orgo](https://github.com/jbellsolutions/funding-director-orgo)** · `private`
+- **[Go To Market Orgo](https://github.com/jbellsolutions/go-to-market-orgo)** · `public` - Self-installing AI Guy go-to-market partner for research, campaigns, partnerships, proposals, memory, A2A, and safe delegation.
 - **[Gtm Company](https://github.com/jbellsolutions/gtm-company)** · `public` - Autonomous GTM machine: cold email + LinkedIn + Titans Council with Supabase persistence
 - **[Handyman Home Services Model](https://github.com/jbellsolutions/Handyman-Home-Services-Model)** · `public` - Complete business model & lead gen system for handyman/home services — Craigslist, Home Depot Pro, Porch, Facebook Marketplace, and 10+ channels
 - **[Handyman Tampa](https://github.com/jbellsolutions/Handyman-Tampa)** · `private` - Handyman Tampa — lead gen + Business OS for Tampa Bay market
@@ -105,9 +170,11 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 - **[Home Services Ai Business](https://github.com/jbellsolutions/Home-Services-AI-Business)** · `public` - Complete AI business system for home services companies — offers, systems, sales playbooks, and implementation guides
 - **[Integraterz Prospect Kit](https://github.com/jbellsolutions/integraterz-prospect-kit)** · `private` - Productized pipeline for turning prospects into Claude Code implementation clients — templates, playbook, scaffolding, examples
 - **[Lead Source Dashboard](https://github.com/jbellsolutions/Lead-Source-Dashboard)** · `private` - Standalone lead sourcing dashboard for cold email campaigns. 10+ sources via Apify, ScraperCity, AnyMailFinder.
+- **[Lead Mining Posting](https://github.com/jbellsolutions/lead-mining-posting)** · `public` - Reusable lead mining, enrichment, provenance, and approval-gated posting system.
 - **[Linkedin Autopilot](https://github.com/jbellsolutions/linkedin-autopilot)** · `public` - AI-powered LinkedIn content automation — 37 agents, 5 teams, setup wizard, built-in swipe file library. Clone, configure, launch.
 - **[Linkedin Autopilot V2](https://github.com/jbellsolutions/linkedin-autopilot-v2)** · `public` - LinkedIn Autopilot v2 — Content + Engagement + Learning: Auto-commenting, auto-responding, campaign analysis
 - **[Linkedin Engagement Flywheel](https://github.com/jbellsolutions/linkedin-engagement-flywheel)** · `private`
+- **[Linkedin Engagement Dashboard](https://github.com/jbellsolutions/linkedin-engagement-dashboard)** · `private`
 - **[Linkedin Services Automation Dashboard](https://github.com/jbellsolutions/linkedin-services-automation-dashboard)** · `private`
 - **[Orgo Computer Use Agents](https://github.com/jbellsolutions/Orgo-Computer-Use-Agents)** · `private` - Autonomous SDR Fleet Orchestrator - AI agents for prospecting, outreach, and meeting booking
 - **[Overdelivery List Buying Research](https://github.com/jbellsolutions/overdelivery-list-buying-research)** · `public` - Evidence-backed Over Delivery list-buying research repository: vendors, source ledger, raw official captures, verification, and buyer due diligence.
@@ -118,6 +185,8 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 - **[Recruiterstack](https://github.com/jbellsolutions/recruiterstack)** · `public` - AI-Powered Automation Factory for Staffing & Recruiting Agencies
 - **[Recruiting Agency Setup V2](https://github.com/jbellsolutions/recruiting-agency-setup-v2)** · `private` - Recruiting Agency Setup v2: Facebook/Instagram ads + Go High Level + AI calling. Interactive walkthrough.
 - **[Rep Res Leadgen](https://github.com/jbellsolutions/rep-res-leadgen)** · `private` - Config-driven lead gen app template — Remove Reviews, Remove Glassdoor, Remove Indeed, Reputation Audit, Review Shield
+- **[Revenue Partner Agent](https://github.com/jbellsolutions/revenue-partner-agent)** · `public` - Source-grounded GTM operator for reactivation, outbound, affiliates, stages, sponsors, and coordinated content.
+- **[Revenue Partner Orgo](https://github.com/jbellsolutions/revenue-partner-orgo)** · `public` - Revenue Partner for Orgo Startup computers with Slack, Telegram, business tools, and secure A2A.
 - **[Scout](https://github.com/jbellsolutions/scout)** · `private` - Scout: AI-powered speaking opportunity discovery pipeline by SpeakerAgent.AI
 - **[Sdr Chrome Plugin](https://github.com/jbellsolutions/sdr-chrome-plugin)** · `private`
 - **[Sendivo Skill](https://github.com/jbellsolutions/sendivo-skill)** · `public` - Drop-in agent skill for the Sendivo SMS platform — send SMS, manage 10DLC brands/campaigns, provision phone numbers, pull billing.
@@ -175,7 +244,7 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 </details>
 
 <details>
-<summary><strong>Business OS, Operations & Vertical Plays</strong> (30)</summary>
+<summary><strong>Business OS, Operations & Vertical Plays</strong> (33)</summary>
 
 - **[Agent Core](https://github.com/jbellsolutions/agent-core)** · `private` - Persistent AI agent framework — living agents with identity, memory, tools, and Slack integration. Instantiate as Head of Operations, COO, GTM Agen...
 - **[Ai Integraterz](https://github.com/jbellsolutions/ai-integraterz)** · `public` - One call. Custom AI training built for your business. Your team producing more in 30 days — guaranteed.
@@ -192,16 +261,19 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 - **[Coo Platform](https://github.com/jbellsolutions/coo-platform)** · `private` - Railway-first internal alpha COO platform with Codex and Claude Code runners
 - **[Division Builder](https://github.com/jbellsolutions/division-builder)** · `private` - Production agent team factory: takes 'automate my recruiting' and outputs a complete repo with AI agents, playbooks, orchestrator, and interactive...
 - **[Governance](https://github.com/jbellsolutions/governance)** · `public` - Autonomous Agent Governance Platform — CEO orchestrator, real-time web panel, multi-business management. Built on CrewAI + OpenSwarm + Paperclip.
+- **[Head Of Ops](https://github.com/jbellsolutions/head-of-ops)** · `public` - Drag-and-drop Head of Ops operator with beginner setup, messaging, calendars, inboxes, proposals, and private personalization.
+- **[Head Of Ops Orgo](https://github.com/jbellsolutions/head-of-ops-orgo)** · `public` - Head of Ops for Orgo Startup computers with operations, calendar, proposals, Slack, Telegram, and secure A2A.
 - **[Imperium Agency](https://github.com/jbellsolutions/Imperium-Agency)** · `private` - tobe website
 - **[Integraterz Opencode](https://github.com/jbellsolutions/integraterz-opencode)** · `private`
 - **[Operations Core](https://github.com/jbellsolutions/operations-core)** · `private` - Reusable persistent agent + operations dashboard template — applies to any ops project
-- **[Operator Template](https://github.com/jbellsolutions/operator-template)** · `public` - Stamp out a self-hosted business-operations agent — Hermes on Slack/Telegram with optional Composio tools, scheduled ops jobs, and an ElevenLabs vo...
+- **[Operator Orgo](https://github.com/jbellsolutions/operator-orgo)** · `public` - Self-installing AI Guy operator for priorities, calendar, inbox, projects, proposals, memory, A2A, and safe delegation.
 - **[Operator Vault](https://github.com/jbellsolutions/operator-vault)** · `private` - The Operator's shared brain — Obsidian vault + AGI-1 memory sync
 - **[Ops Home Base](https://github.com/jbellsolutions/ops-home-base)** · `public` - AI-Powered Operations Command Center — Manage ClickUp, CRM, Gmail & Calendar from one place via Claude Code + MCP
 - **[Ops Os](https://github.com/jbellsolutions/ops-os)** · `private` - Operational orchestration layer for AI Integrators, SpeakerAgent, and Beauty Business OS — Paperclip + Claude SDK + Slack MCP
 - **[Overdeliver Mail Agency](https://github.com/jbellsolutions/overdeliver-mail-agency)** · `private`
 - **[Paperclip Businesses](https://github.com/jbellsolutions/paperclip-businesses)** · `public` - Deploy fully autonomous AI businesses on Paperclip. Template + examples. 9 agents, OpenCode + kimi-k2.5 via OpenRouter.
 - **[Paperclip Operations Hub](https://github.com/jbellsolutions/paperclip-operations-hub)** · `private` - Autonomous business operations backend - AI agent-driven ops hub with FunnelFlow AI
+- **[Peptide Operator Orgo](https://github.com/jbellsolutions/peptide-operator-orgo)** · `private` - Client-isolated Peptide Operations Partner for Orgo Hermes with approved healthcare and business-tool connections.
 - **[Reputation Resolutions Starter](https://github.com/jbellsolutions/reputation-resolutions-starter)** · `private` - Central hub for Reputation Resolutions — nurture system, project briefs, and specs
 - **[Sovereign Audience Method](https://github.com/jbellsolutions/sovereign-audience-method)** · `private`
 - **[Sovereign Trades Method](https://github.com/jbellsolutions/sovereign-trades-method)** · `private` - The Sovereign Trades Method — install in one prompt. Deployable AI ops stack for HVAC/plumbing/electrical/roofing/handyman/landscaping/pest-control...
@@ -228,7 +300,7 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 </details>
 
 <details>
-<summary><strong>Learning, Certification & Templates</strong> (12)</summary>
+<summary><strong>Learning, Certification & Templates</strong> (11)</summary>
 
 - **[Agi 1 Vault Public](https://github.com/jbellsolutions/agi-1-vault-public)** · `public` - Sanitized public Obsidian vault template for AGI-1 heartbeat memory
 - **[Ai Agent Team Reference](https://github.com/jbellsolutions/ai-agent-team-reference)** · `public` - Deploy 11 AI agent teams for ~$280/month. Claude Code + Ruflo + Orgo VMs. Master reference guide with role-to-repo mapping.
@@ -240,13 +312,12 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 - **[Gstack Framework](https://github.com/jbellsolutions/gstack-framework)** · `public` - Transform any repo to G-Stack quality. Analyzes, audits, creates skills, applies templates, and verifies. Based on garrytan/gstack patterns.
 - **[Leak Decline Code Leak Mini Course](https://github.com/jbellsolutions/leak-decline-code-leak-mini-course)** · `private` - Leak Decline Code Leak Mini Course
 - **[Self Healing Template](https://github.com/jbellsolutions/self-healing-template)** · `public` - Template repo: self-healing operational rules, pipeline templates, and security layers. Use as GitHub template for new repos.
-- **[Single Brain Template](https://github.com/jbellsolutions/single-brain-template)** · `public` - Spin up a new Single-Brain Hermes agent (channels + fallback LLM + Obsidian/Notion memory) from one config file
 - **[Zionaitutor](https://github.com/jbellsolutions/zionaitutor)** · `public`
 
 </details>
 
 <details>
-<summary><strong>Infrastructure, Integrations & Data</strong> (13)</summary>
+<summary><strong>Infrastructure, Integrations & Data</strong> (16)</summary>
 
 - **[Agi 1](https://github.com/jbellsolutions/agi-1)** · `private` - Self-healing, self-learning, autorecursive AI development framework. Combines G-Stack quality + AI Blueprint readiness + autoresearch verification....
 - **[Auto Trader Dca](https://github.com/jbellsolutions/auto-trader-dca)** · `private` - Automated DCA++ trading bot: crypto + metals/forex. Volume-smart, conservative, compounding.
@@ -255,22 +326,26 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 - **[Email Delivery Edcom](https://github.com/jbellsolutions/email-delivery-edcom)** · `private` - Self-hosted email delivery (EmailDelivery.com edcom-ce) on Spaceship Starlight + Velocity MTA — deployment kit, DNS automation, and operate skill
 - **[Email Delivery Edcom Public](https://github.com/jbellsolutions/email-delivery-edcom-public)** · `public` - Sanitized public starter for self-hosted EmailDelivery.com CE deliverability infrastructure
 - **[Email Infrastructure](https://github.com/jbellsolutions/email-infrastructure)** · `public` - Owned self-hosted email sending infrastructure — Postal v3 on Spaceship VMs, risk-tiered for opt-in marketing + transactional + re-engagement
+- **[Gohighlevel Agency Cli](https://github.com/jbellsolutions/gohighlevel-agency-cli)** · `private` - Multi-tenant GoHighLevel CLI, MCP server, and Claude Code skill for agency-wide operation.
+- **[Hermes Instance Backup](https://github.com/jbellsolutions/hermes-instance-backup)** · `private` - Redacted Hermes instance backup, Obsidian mirror, and encrypted recovery tooling.
 - **[Flowiseai Railway](https://github.com/jbellsolutions/FlowiseAI-Railway)** · `public`
 - **[Langflow Railway](https://github.com/jbellsolutions/langflow-railway)** · `public`
 - **[Livekit](https://github.com/jbellsolutions/livekit)** · `public` - End-to-end stack for WebRTC. SFU media server and SDKs.
 - **[Moon Dev Ai Agents For Trading](https://github.com/jbellsolutions/moon-dev-ai-agents-for-trading)** · `public` - ai agents for trading
 - **[Openhuman Deploy](https://github.com/jbellsolutions/openhuman-deploy)** · `private` - Self-hosted OpenHuman: VPS deployment, control toolkit (oh-*), and a one-command new-computer setup. Private.
+- **[Sendy Selfhosted](https://github.com/jbellsolutions/sendy-selfhosted)** · `private` - Self-hosted Sendy on DigitalOcean with provisioning automation, SES setup, and a programmatic operation skill.
 - **[Superagent](https://github.com/jbellsolutions/superagent)** · `public` - 🥷 The Open Source AI Assistant Framework & API
 
 </details>
 
 <details>
-<summary><strong>Reference Forks, Experiments & Utilities</strong> (12)</summary>
+<summary><strong>Reference Forks, Experiments & Utilities</strong> (13)</summary>
 
 - **[Ai Guy On Demand](https://github.com/jbellsolutions/ai-guy-on-demand)** · `private` - Chrome extension + cloud Hermes gateway for Integraterz AI Guy On-Demand MVP
 - **[Aico Sprint](https://github.com/jbellsolutions/aico-sprint)** · `public`
 - **[Autonomous Job Hunter](https://github.com/jbellsolutions/autonomous-job-hunter)** · `public`
 - **[Business Operator](https://github.com/jbellsolutions/business-operator)** · `private, archived` - Business Operator — always-on ops + PM agent on the single-brain reliability template
+- **[Ethos](https://github.com/jbellsolutions/ethos)** · `public, fork` - Open-source workspace for autonomous AI agents with replaceable models, tools, browsers, and persistent computers.
 - **[Git Push Diag Test](https://github.com/jbellsolutions/git-push-diag-test)** · `private`
 - **[Home Services Lead Automation](https://github.com/jbellsolutions/Home-Services-Lead-Automation)** · `public, archived` - Browser-based AI automation for handyman lead gen (Craigslist + Facebook Marketplace)
 - **[Itm30 Sprint](https://github.com/jbellsolutions/itm30-sprint)** · `public`
@@ -288,61 +363,10 @@ Currently indexing **199 repos**: **109 public**, **90 private**, and **2 archiv
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=jbellsolutions&hide_border=true)
 
-## What I'm Doing
-
-- **Building AI operating systems** - Turning GTM, ops, and delivery playbooks into working software
-- **Shipping open repo-first products** - Most projects start as real implementation systems, then become reusable repos
-- **Rapid packaging and deployment** - Moving from offer or workflow idea to runnable build fast
-- **Helping operators use AI for real work** - Less hype, more systems people can actually run
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Hermes Super Agent](https://github.com/jbellsolutions/hermes-super-agent)
-- [Ops Home Base](https://github.com/jbellsolutions/ops-home-base)
-- [Claude In 15 Minutes Lead Magnet](https://github.com/jbellsolutions/claude-in-15-minutes-lead-magnet)
-- [AI Ecosystem Certification](https://github.com/jbellsolutions/ai-ecosystem-certification)
-- [SpeakerAgent Waitlist](https://github.com/jbellsolutions/speakeragent-waitlist)
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect
 
-[![X](https://img.shields.io/badge/-jbellsolutions-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jbellsolutions)
-[![Site](https://img.shields.io/badge/-Your_AI_Guy-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://your-ai-guy-production.up.railway.app)
-[![Email](https://img.shields.io/badge/-justin@usingaitoscale.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:justin@usingaitoscale.com)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jbellsolutions)
-
----
-
-### Recognition
-
-- 109+ public repositories, plus 90 private/internal builds, across agent tooling, GTM systems, operations, and delivery workflows
-- 15+ years across GTM, BizOps, GrowthOps, sales, marketing, and team building
-- 10+ years building internal software systems
-- 5+ years applying AI to real delivery and operational workflows
-
-### Media
-
-- **[Claude In 15 Minutes Lead Magnet](https://github.com/jbellsolutions/claude-in-15-minutes-lead-magnet)** - Public-facing training asset and lead magnet
-- **[AI Ecosystem Certification](https://github.com/jbellsolutions/ai-ecosystem-certification)** - Certification portal for learning the AI ecosystem
-- **[Claude Code Ecosystem Certification](https://github.com/jbellsolutions/claude-code-ecosystem-certification)** - Public certification portal for Claude Code workflows
-- **[Truth Teller Rie](https://github.com/jbellsolutions/truth-teller-rie)** - Example of productized fan-platform execution
-- **[SpeakerAgent Waitlist](https://github.com/jbellsolutions/speakeragent-waitlist)** - Public launch surface for Speaker Agent AI
-
-### Model Status
-
-- **What is Justin building?** The live index is here on [GitHub](https://github.com/jbellsolutions)
-
-### Philosophy
-
-> "Ask me a question, I'll give you an answer." I build systems that do real work, open-source as much of the process as I can, and try to make AI implementation more useful than performative.
-
-<details>
-<summary>Random Facts</summary>
-
-- Most projects start as internal operator tools before they become public repos
-- I prefer working systems over polished decks
-- Open source is my default distribution channel
-- GTM, operations, and delivery are the three lanes I keep coming back to
-
-</details>
+[![Your AI Guy](https://img.shields.io/badge/Your_AI_Guy-0F766E?style=flat-square&logo=google-chrome&logoColor=white)](https://usingaitoscale.com/ai-guy/)
+[![Partner Kit](https://img.shields.io/badge/Revenue_Partner_Kit-2563EB?style=flat-square)](https://usingaitoscale.com/revenue-partner-kit/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Justin_Bellware-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbellsolutions/)
+[![Email](https://img.shields.io/badge/Email-justin%40usingaitoscale.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:justin@usingaitoscale.com)
+[![X](https://img.shields.io/badge/X-jbellsolutions-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jbellsolutions)

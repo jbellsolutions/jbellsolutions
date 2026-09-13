@@ -4,7 +4,7 @@
 
 # Put an AI employee to work on the part of your business closest to revenue.
 
-Self-installing, approval-gated AI agents that work from a private Orgo computer, learn the business, and bring the next decision back to a human.
+Self-installing, approval-gated AI agents that work from a private [Orgo](https://orgo.ai?r=aiguy) computer, learn the business, and bring the next decision back to a human.
 
 [![Get the free Revenue Partner and Partner Kit](https://img.shields.io/badge/GET_THE_FREE_REVENUE_PARTNER_%2B_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
 [![Install Revenue Partner for Orgo](https://img.shields.io/badge/INSTALL_REVENUE_PARTNER_FOR_ORGO-0F766E?style=for-the-badge)](https://github.com/jbellsolutions/revenue-partner-orgo)
@@ -17,9 +17,7 @@ Self-installing, approval-gated AI agents that work from a private Orgo computer
 
 Most businesses do not need another AI tool to manage. They need one capable employee with a clear job, the right context, and boundaries they can trust. Start with the job closest to revenue, prove it works, and expand only when the first loop is useful.
 
-## Choose the AI employee closest to the job
-
-### 01 · Revenue Partner for Orgo
+## The flagship: Revenue Partner for [Orgo](https://orgo.ai?r=aiguy)
 
 Find opportunities, keep revenue work moving, and make the next best action obvious.
 
@@ -29,71 +27,38 @@ Find opportunities, keep revenue work moving, and make the next best action obvi
 
 [**See the agent →**](https://github.com/jbellsolutions/revenue-partner-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/revenue-partner-orgo/blob/main/START-HERE.md)
 
-### 02 · Go-to-Market for Orgo
+## Meet the AI Team
 
-Turn a clear offer into qualified conversations, partnerships, proposals, and revenue.
+Revenue Partner is the front door. When a business is ready to expand, these public agents provide clear roles without turning the profile into a wall of competing offers.
 
-- Research the market and identify the accounts, audiences, and partners most likely to fit.
-- Prepare campaigns and content without losing the approved positioning.
-- Coordinate proposals, replies, CRM updates, and the next human follow-up.
-
-[**See the agent →**](https://github.com/jbellsolutions/go-to-market-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/go-to-market-orgo/blob/main/START-HERE.md)
-
-### 03 · Operator for Orgo
-
-Turn priorities into clear plans, owned actions, reliable follow-through, and calmer days.
-
-- Organize meetings, messages, ideas, and requests into priorities and owners.
-- Coordinate calendars, inboxes, projects, documents, proposals, and reminders.
-- Surface what is late, blocked, or waiting for a decision before it becomes a fire.
-
-[**See the agent →**](https://github.com/jbellsolutions/operator-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/operator-orgo/blob/main/START-HERE.md)
-
-### 04 · AI Co-Founder for Orgo
-
-Give one leader the context and authority to coordinate a complete AI team.
-
-- Turn business outcomes into priorities, scorecards, decisions, and owned work.
-- Coordinate operations, revenue, finance, research, and specialist agents.
-- Keep delegation, review, permissions, and consequential actions under human control.
-
-[**See the agent →**](https://github.com/jbellsolutions/ai-cofounder-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/ai-cofounder-orgo/blob/main/START-HERE.md)
-
-### 05 · Affiliate Manager
-
-Build a partner channel that keeps recruiting, onboarding, activating, and growing revenue-producing relationships.
-
-- Research and qualify potential affiliates against the approved partner profile.
-- Prepare outreach, onboarding kits, campaign briefs, reporting, and reactivation plans.
-- Keep terms, commissions, payouts, and external messages under human approval.
-
-[**See the agent →**](https://github.com/jbellsolutions/affiliate-manager-agent) · [**Start the walkthrough →**](https://github.com/jbellsolutions/affiliate-manager-agent/blob/main/START-HERE.md)
-
-### 06 · Head of Ops for Orgo
-
-Give the business one dependable operator who clears the desk, moves the work, and protects the owner's time.
-
-- Sort inboxes, prepare meetings, organize requests, and keep the next action visible.
-- Coordinate calendars, documents, proposals, projects, deadlines, and business tools.
-- Carry out approved actions from a private, visible Orgo computer with persistent context.
-
-[**See the agent →**](https://github.com/jbellsolutions/head-of-ops-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/head-of-ops-orgo/blob/main/START-HERE.md)
+| Role | The job | Explore |
+|---|---|---|
+| **Revenue Partner** | Opportunities, pipeline, proposals, and follow-up. | [Repository](https://github.com/jbellsolutions/revenue-partner-orgo) · [Walkthrough](https://github.com/jbellsolutions/revenue-partner-orgo/blob/main/START-HERE.md) |
+| **AI Co-Founder** | Strategy, leadership, and delegation. | [Repository](https://github.com/jbellsolutions/ai-cofounder-orgo) · [Walkthrough](https://github.com/jbellsolutions/ai-cofounder-orgo/blob/main/START-HERE.md) |
+| **Go-to-Market** | Research, campaigns, partnerships, and qualified conversations. | [Repository](https://github.com/jbellsolutions/go-to-market-orgo) · [Walkthrough](https://github.com/jbellsolutions/go-to-market-orgo/blob/main/START-HERE.md) |
+| **Operator / Project Manager** | Priorities, projects, coordination, and dependable execution. | [Repository](https://github.com/jbellsolutions/operator-orgo) · [Walkthrough](https://github.com/jbellsolutions/operator-orgo/blob/main/START-HERE.md) |
+| **Affiliate Manager** | Recruiting, activating, and growing partners. | [Repository](https://github.com/jbellsolutions/affiliate-manager-agent) · [Walkthrough](https://github.com/jbellsolutions/affiliate-manager-agent/blob/main/START-HERE.md) |
+| **Head of Ops** | Operational follow-through and protecting the owner's time. | [Repository](https://github.com/jbellsolutions/head-of-ops-orgo) · [Walkthrough](https://github.com/jbellsolutions/head-of-ops-orgo/blob/main/START-HERE.md) |
 
 ## How it works
 
 1. **Pick one business job.** Start with the revenue or operating loop where dropped work is already costing time or money.
 2. **Give the repository to a setup agent.** Codex, Claude Code, or another capable setup agent reads the included instructions and handles the technical work.
-3. **Prove the real handoff.** Launch the agent on Orgo, connect only the tools you approve, and finish when a real Slack or Telegram message gets a verified response.
+3. **Prove the real handoff.** Launch the agent on [Orgo](https://orgo.ai?r=aiguy), connect only the tools you approve, and finish when a real Slack or Telegram message gets a verified response.
 
 The agent can research, organize, analyze, and prepare work inside its approved workspace. Sending, publishing, spending, changing customer records, inviting people, or widening permissions stops for human approval.
 
-> **The AI Guy Orgo deal:** We worked out a deal with Orgo so our subscribers and customers get **25% off their first three months on a monthly plan, or 25% off their first year on a yearly plan**. Add-ons are not discounted. [**Claim the Orgo discount →**](https://orgo.ai?r=aiguy)
+## The [Orgo](https://orgo.ai?r=aiguy) partner offer
+
+We worked out a deal with [Orgo](https://orgo.ai?r=aiguy) for AI Guy subscribers and customers: get **25% off your first three months on a monthly plan or your first year on a yearly plan. Add-ons are not discounted.**
+
+[**Claim the Orgo discount →**](https://orgo.ai?r=aiguy)
 
 ## Start free. Make the first agent useful.
 
 The public agents and their documentation are free. The **Revenue Partner Kit** adds the complete training and preparation material. Start a **seven-day free trial** to get the implementation kickstart, weekly live builds, coaching, training, and support. Continuing membership is **$99/month** and can be cancelled anytime.
 
-Orgo, model usage, and other third-party services are separate. The agents run on accounts you control, and private credentials or business context never belong in a public repository.
+[Orgo](https://orgo.ai?r=aiguy), model usage, and other third-party services are separate. The agents run on accounts you control, and private credentials or business context never belong in a public repository.
 
 [![Get the free Revenue Partner and Partner Kit](https://img.shields.io/badge/START_WITH_THE_FREE_PARTNER_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
 
@@ -101,7 +66,26 @@ Orgo, model usage, and other third-party services are separate. The agents run o
 
 Use the included kickstart to choose the first job, load the business context, connect approved tools, and prove the agent works. For a larger implementation, an AI Integrator or AI Operator can help build and run the system with you.
 
-[**Get the Partner Kit + kickstart →**](https://usingaitoscale.com/revenue-partner-kit/) · [**Book an implementation conversation →**](https://cal.com/usingaitoscale/aiintegraterz)
+[**Get the Partner Kit + kickstart →**](https://usingaitoscale.com/revenue-partner-kit/) · [**Book an implementation conversation →**](https://cal.com/usingaitoscale/github-request-private-access)
+
+## Justin's Favorite Repository: The Super Browser Evolution
+
+One idea has kept evolving: give an agent the right browser for the job, make its plan visible, and keep consequential actions behind human approval.
+
+[![Super Browser 3.0 dashboard showing chat, connected tools, visible plans, workflows, templates, files, and run controls](docs/assets/super-browser-3-dashboard.webp)](https://cal.com/usingaitoscale/github-request-private-access)
+
+1. **[Super Saiyan Browser · Public V1](https://github.com/jbellsolutions/super-saiyan-browser)** — provider routing, human approvals, MCP support, durable artifacts, and verification in one public starting point.
+2. **Coordinated Browser Agents · V2 groundwork** — private intermediate work added persistent state, coordinated agents, shared context, and tighter run control.
+3. **Super Browser 3.0 · Coming soon** — a complete dashboard with chat, an AI agent for every profile, scraped documentation in one place, workflows, templates, files, tool status, MCP, API access, and visible execution.
+
+[**Explore public V1 →**](https://github.com/jbellsolutions/super-saiyan-browser) · [**Request Super Browser 3.0 access now →**](https://cal.com/usingaitoscale/github-request-private-access)
+
+## Big Hits Coming Soon
+
+| Private preview | What is coming | Access |
+|---|---|---|
+| **[Orgo](https://orgo.ai?r=aiguy) AI Guy Bot** | Chat with cloud agents, delegate tasks, and watch the work happen on live remote screens. Public release coming soon. | [Request private access](https://cal.com/usingaitoscale/github-request-private-access) |
+| **GrokBot** | An approval-gated funding-partnerships and affiliate-management experience. Public release coming soon. | [Request private access](https://cal.com/usingaitoscale/github-request-private-access) |
 
 ## About Justin
 
@@ -109,7 +93,7 @@ I'm Justin Bellware—**Your AI Guy** in Tampa, Florida. I bring 15+ years acros
 
 ## Complete repository index
 
-Snapshot refreshed **September 12, 2026**: **219 repositories** — **120 public**, **99 private**, **203 original**, **16 forks**, and **2 archived**. Every category is collapsed so the strongest buyer-facing agents stay first. Private repositories are intentionally listed; visitors without access will see a 404.
+Snapshot refreshed **September 13, 2026**: **219 repositories** — **120 public**, **99 private**, **203 original**, **16 forks**, and **2 archived**. Every category is collapsed so the strongest buyer-facing agents stay first. Private repositories are intentionally listed; visitors without access will see a 404.
 
 <!-- REPO-INDEX:START -->
 <details>

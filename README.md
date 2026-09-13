@@ -87,6 +87,8 @@ Give the business one dependable operator who clears the desk, moves the work, a
 
 The agent can research, organize, analyze, and prepare work inside its approved workspace. Sending, publishing, spending, changing customer records, inviting people, or widening permissions stops for human approval.
 
+> **The AI Guy Orgo deal:** We worked out a deal with Orgo so our subscribers and customers get **25% off their first three months on a monthly plan, or 25% off their first year on a yearly plan**. Add-ons are not discounted. [**Claim the Orgo discount →**](https://orgo.ai?r=aiguy)
+
 ## Start free. Make the first agent useful.
 
 The public agents and their documentation are free. The **Revenue Partner Kit** adds the complete training and preparation material. Start a **seven-day free trial** to get the implementation kickstart, weekly live builds, coaching, training, and support. Continuing membership is **$99/month** and can be cancelled anytime.

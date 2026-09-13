@@ -1,19 +1,23 @@
 <div align="center">
 
-### REVENUE PARTNERS · YOUR AI GUY
+<h3 align="center">REVENUE PARTNERS · YOUR AI GUY</h3>
 
-# What's the point of AI if it's not generating revenue for you?
+<h1 align="center">What's the point of AI if it's not generating revenue for you?</h1>
 
-Put an AI employee to work on the nine parts of your business closest to revenue—the nine open loops almost every business has where money is falling through the cracks.
+<h3 align="center">Put an AI employee to work on the nine parts of your business closest to revenue—the nine open loops almost every business has where money is falling through the cracks.</h3>
 
-**If it doesn't make money, it doesn't make sense.**
+<h2 align="center"><em>If it doesn't make money, it doesn't make sense.</em></h2>
 
-Self-installing, approval-gated AI agents work from a private [Orgo](https://orgo.ai?r=aiguy) computer, learn the business, and bring the next decision back to a human.
+<p align="center">Self-installing, approval-gated AI agents work from a private <a href="https://orgo.ai?r=aiguy">Orgo</a> computer, learn the business, and bring the next decision back to a human.</p>
 
 [![Get the free Revenue Partner and Partner Kit](https://img.shields.io/badge/GET_THE_FREE_REVENUE_PARTNER_%2B_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
 [![Install Revenue Partner for Orgo](https://img.shields.io/badge/INSTALL_REVENUE_PARTNER_FOR_ORGO-0F766E?style=for-the-badge)](https://github.com/jbellsolutions/revenue-partner-orgo)
 
-[![A Revenue Partner coordinates nine open revenue loops across opportunities, outreach, follow-up, pipeline, proposals, partnerships, customers, reporting, and operations](docs/assets/revenue-partner-nine-loops.webp)](https://usingaitoscale.com/revenue-partner-kit/)
+<p align="center">
+  <a href="https://usingaitoscale.com/revenue-partner-kit/">
+    <img src="docs/assets/revenue-partner-nine-loops.webp" width="820" alt="A Revenue Partner coordinates nine open revenue loops across opportunities, outreach, follow-up, pipeline, proposals, partnerships, customers, reporting, and operations">
+  </a>
+</p>
 
 **OPEN-SOURCE START · ONE-LINK INSTALLATION · SLACK + TELEGRAM · PRIVATE BUSINESS CONTEXT · HUMAN APPROVAL**
 

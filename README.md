@@ -82,10 +82,10 @@ One idea has kept evolving: give an agent the right browser for the job, make it
 
 ## Big Hits Coming Soon
 
-| Private preview | What is coming | Access |
-|---|---|---|
-| **[Orgo](https://orgo.ai?r=aiguy) AI Guy Bot** | Chat with cloud agents, delegate tasks, and watch the work happen on live remote screens. Public release coming soon. | [Request private access](https://cal.com/usingaitoscale/github-request-private-access) |
-| **GrokBot** | An approval-gated funding-partnerships and affiliate-management experience. Public release coming soon. | [Request private access](https://cal.com/usingaitoscale/github-request-private-access) |
+- **[Orgo](https://orgo.ai?r=aiguy) AI Guy Bot · Private preview** — chat with cloud agents, delegate tasks, and watch the work happen on live remote screens. [Request access →](https://cal.com/usingaitoscale/github-request-private-access)
+- **GrokBot · Private preview** — an approval-gated funding-partnerships and affiliate-management experience. [Request access →](https://cal.com/usingaitoscale/github-request-private-access)
+
+Public releases are coming soon.
 
 ## About Justin
 

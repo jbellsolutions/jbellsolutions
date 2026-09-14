@@ -119,7 +119,7 @@ I'm Justin Bellware—**Your AI Guy** in Tampa, Florida. I bring 15+ years acros
 
 ## Complete repository index
 
-Snapshot refreshed **September 13, 2026**: **219 repositories** — **115 public**, **104 private**, **203 original**, **16 forks**, and **2 archived**. Every category is collapsed so the strongest buyer-facing agents stay first. Private repositories are labeled without dead-end GitHub links.
+Snapshot refreshed **September 13, 2026**: **221 repositories** — **116 public**, **105 private**, **205 original**, **16 forks**, and **2 archived**. Every category is collapsed so the strongest buyer-facing agents stay first. Private repositories are labeled without dead-end GitHub links.
 
 <!-- REPO-INDEX:START -->
 <details>

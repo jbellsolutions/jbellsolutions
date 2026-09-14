@@ -13,7 +13,6 @@
 <p>Self-installing, approval-gated AI agents work from a private <a href="https://orgo.ai?r=aiguy">Orgo</a> computer, learn the business, and bring the next decision back to a human.</p>
 
 [![Get the free Revenue Partner and Partner Kit](https://img.shields.io/badge/GET_THE_FREE_REVENUE_PARTNER_%2B_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
-[![Install Revenue Partner for Orgo](https://img.shields.io/badge/INSTALL_REVENUE_PARTNER_FOR_ORGO-0F766E?style=for-the-badge)](https://github.com/jbellsolutions/revenue-partner-orgo)
 
 <p><strong>OPEN-SOURCE START · ONE-LINK INSTALLATION · SLACK + TELEGRAM · PRIVATE BUSINESS CONTEXT · HUMAN APPROVAL</strong></p>
 
@@ -45,7 +44,7 @@ Select any preview to open the full-size README view.
 
 | Role | Preview | What goes into the job | Access |
 |---|---|---|---|
-| **Revenue Partner** | <a href="docs/assets/revenue-partner-readme-preview.webp"><img src="docs/assets/revenue-partner-readme-preview.webp" width="120" alt="Revenue Partner README preview showing grow revenue, run operations, and get time back"></a> | Opportunities, pipeline, proposals, and follow-up. | **Public** · [Get the free agent →](https://github.com/jbellsolutions/revenue-partner-orgo) |
+| **Revenue Partner** | <a href="docs/assets/revenue-partner-readme-preview.webp"><img src="docs/assets/revenue-partner-readme-preview.webp" width="120" alt="Revenue Partner README preview showing grow revenue, run operations, and get time back"></a> | Opportunities, pipeline, proposals, and follow-up. | [Claim your Revenue Partner →](https://usingaitoscale.com/revenue-partner-kit/) |
 | **AI Co-Founder** | <a href="docs/assets/ai-cofounder-orgo-readme-preview.webp"><img src="docs/assets/ai-cofounder-orgo-readme-preview.webp" width="120" alt="AI Co-Founder README preview showing strategy, leadership, delegation, and coordinated execution"></a> | Strategy, leadership, and delegation. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
 | **Go-to-Market** | <a href="docs/assets/go-to-market-orgo-readme-preview.webp"><img src="docs/assets/go-to-market-orgo-readme-preview.webp" width="120" alt="Go-to-Market README preview showing opportunity research, demand creation, and revenue follow-through"></a> | Research, campaigns, partnerships, and qualified conversations. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
 | **Video Editor and Content Ops** | <a href="docs/assets/video-editor-content-ops-orgo-readme-preview.webp"><img src="docs/assets/video-editor-content-ops-orgo-readme-preview.webp" width="120" alt="Video Editor and Content Ops README preview showing recording, editing, clips, shorts, and content drafts"></a> | Clean recordings, contextual clips, shorts, thumbnails, and publishing drafts. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
@@ -99,13 +98,11 @@ One idea has kept evolving: give an agent the right browser for the job, make it
 
 [**Explore public V1 →**](https://github.com/jbellsolutions/super-saiyan-browser) · [**Join the Super Browser 3.0 waitlist →**](https://superbrowser.online/waitlist)
 
-## Big Hits Coming Soon
+## Revenue Partner Studio by Your AI Guy
 
-### [Orgo](https://orgo.ai?r=aiguy) AI Guy Bot · Private Preview
+Chat with Revenue Partner agents, delegate the work closest to revenue, and watch it happen on live remote screens. Private preview now; public release coming soon.
 
-Chat with cloud agents, delegate tasks, and watch the work happen on live remote screens. Public release coming soon.
-
-### [Orgo AI Guy — Request Access →](https://cal.com/usingaitoscale/github-request-private-access)
+### [Revenue Partner Studio by Your AI Guy — Request Access →](https://cal.com/usingaitoscale/github-request-private-access)
 
 ## About Justin
 

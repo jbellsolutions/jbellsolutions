@@ -41,23 +41,17 @@ Find opportunities, keep revenue work moving, and make the next best action obvi
 
 Revenue Partner is the free public front door. The expanded team is available by request so each role can be matched to the right business, context, and implementation.
 
-<p>
-  <a href="docs/assets/revenue-partner-readme-preview.webp">
-    <img src="docs/assets/revenue-partner-readme-preview.webp" width="360" alt="Revenue Partner for Orgo README preview showing how the agent helps grow revenue, run operations, and give time back">
-  </a>
-  <br>
-  <sub>Open the Revenue Partner preview.</sub>
-</p>
+Select any preview to open the full-size README view.
 
-| Role | What goes into the job | Access |
-|---|---|---|
-| **Revenue Partner** | Opportunities, pipeline, proposals, and follow-up. | **Public** · [Get the free agent →](https://github.com/jbellsolutions/revenue-partner-orgo) |
-| **AI Co-Founder** | Strategy, leadership, and delegation. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Go-to-Market** | Research, campaigns, partnerships, and qualified conversations. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Video Editor and Content Ops** | Clean recordings, contextual clips, shorts, thumbnails, and publishing drafts. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Operator / Project Manager** | Priorities, projects, coordination, and dependable execution. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Affiliate Manager** | Recruiting, activating, and growing partners. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Head of Ops** | Operational follow-through and protecting the owner's time. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
+| Role | Preview | What goes into the job | Access |
+|---|---|---|---|
+| **Revenue Partner** | <a href="docs/assets/revenue-partner-readme-preview.webp"><img src="docs/assets/revenue-partner-readme-preview.webp" width="120" alt="Revenue Partner README preview showing grow revenue, run operations, and get time back"></a> | Opportunities, pipeline, proposals, and follow-up. | **Public** · [Get the free agent →](https://github.com/jbellsolutions/revenue-partner-orgo) |
+| **AI Co-Founder** | <a href="docs/assets/ai-cofounder-orgo-readme-preview.webp"><img src="docs/assets/ai-cofounder-orgo-readme-preview.webp" width="120" alt="AI Co-Founder README preview showing strategy, leadership, delegation, and coordinated execution"></a> | Strategy, leadership, and delegation. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
+| **Go-to-Market** | <a href="docs/assets/go-to-market-orgo-readme-preview.webp"><img src="docs/assets/go-to-market-orgo-readme-preview.webp" width="120" alt="Go-to-Market README preview showing opportunity research, demand creation, and revenue follow-through"></a> | Research, campaigns, partnerships, and qualified conversations. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
+| **Video Editor and Content Ops** | <a href="docs/assets/video-editor-content-ops-orgo-readme-preview.webp"><img src="docs/assets/video-editor-content-ops-orgo-readme-preview.webp" width="120" alt="Video Editor and Content Ops README preview showing recording, editing, clips, shorts, and content drafts"></a> | Clean recordings, contextual clips, shorts, thumbnails, and publishing drafts. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
+| **Operator / Project Manager** | <a href="docs/assets/operator-orgo-readme-preview.webp"><img src="docs/assets/operator-orgo-readme-preview.webp" width="120" alt="Operator and Project Manager README preview showing organization, coordination, and dependable follow-through"></a> | Priorities, projects, coordination, and dependable execution. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
+| **Affiliate Manager** | <a href="docs/assets/affiliate-manager-agent-readme-preview.webp"><img src="docs/assets/affiliate-manager-agent-readme-preview.webp" width="120" alt="Affiliate Manager README preview showing partner recruiting, activation, support, and growth"></a> | Recruiting, activating, and growing partners. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
+| **Head of Ops** | <a href="docs/assets/head-of-ops-orgo-readme-preview.webp"><img src="docs/assets/head-of-ops-orgo-readme-preview.webp" width="120" alt="Head of Ops README preview showing operational follow-through, business execution, and protected owner time"></a> | Operational follow-through and protecting the owner's time. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
 
 ## How it works
 

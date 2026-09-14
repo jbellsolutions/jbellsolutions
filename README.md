@@ -39,7 +39,7 @@ Find opportunities, keep revenue work moving, and make the next best action obvi
 
 ## Meet the AI Team
 
-Revenue Partner is the free public front door. The rest of the team stays private so each role can be matched to the right business, context, and implementation.
+Revenue Partner is the free public front door. The expanded team is available by request so each role can be matched to the right business, context, and implementation.
 
 <p>
   <a href="docs/assets/revenue-partner-readme-preview.webp">
@@ -119,7 +119,7 @@ I'm Justin Bellware—**Your AI Guy** in Tampa, Florida. I bring 15+ years acros
 
 ## Complete repository index
 
-Snapshot refreshed **September 13, 2026**: **219 repositories** — **114 public**, **105 private**, **203 original**, **16 forks**, and **2 archived**. Every category is collapsed so the strongest buyer-facing agents stay first. Private repositories are labeled without dead-end GitHub links.
+Snapshot refreshed **September 13, 2026**: **219 repositories** — **115 public**, **104 private**, **203 original**, **16 forks**, and **2 archived**. Every category is collapsed so the strongest buyer-facing agents stay first. Private repositories are labeled without dead-end GitHub links.
 
 <!-- REPO-INDEX:START -->
 <details>

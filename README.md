@@ -4,11 +4,11 @@
 
 <h1>What's the point of AI if it's not generating revenue for you?</h1>
 
-<h3>Put an AI employee to work on the nine parts of your business closest to revenue—the nine open loops almost every business has where money is falling through the cracks.</h3>
+<h3>Put an AI workforce to work on the nine parts of your business closest to revenue—the nine open loops almost every business has where money is falling through the cracks.</h3>
 
 <h2><em>If it doesn't make money, it doesn't make sense.</em></h2>
 
-<p><strong>Revenue Partner is the front door to the work closest to money:</strong> opportunities, pipeline, proposals, partnerships, follow-up, and the open loops where revenue falls through the cracks.</p>
+<p><strong>Revenue partnerships are the front door to the work closest to money:</strong> opportunities, pipeline, proposals, partnerships, follow-up, and the open loops where revenue falls through the cracks.</p>
 
 <p>Self-installing, approval-gated AI agents work from a private <a href="https://orgo.ai?r=aiguy">Orgo</a> computer, learn the business, and bring the next decision back to a human.</p>
 
@@ -16,7 +16,7 @@
 
 <p><strong>OPEN-SOURCE START · ONE-LINK INSTALLATION · SLACK + TELEGRAM · PRIVATE BUSINESS CONTEXT · HUMAN APPROVAL</strong></p>
 
-<p>Most businesses do not need another AI tool to manage. They need one capable employee with a clear job, the right context, and boundaries they can trust. Start with the job closest to revenue, prove it works, and expand only when the first loop is useful.</p>
+<p>Most businesses do not need another AI tool to manage. They need a capable workforce with clear jobs, the right context, and boundaries they can trust. Start with the job closest to revenue, prove it works, and expand only when the first loop is useful.</p>
 
 <p>
   <a href="https://usingaitoscale.com/revenue-partner-kit/">
@@ -26,64 +26,90 @@
 
 </div>
 
-## The flagship: Revenue Partner for [Orgo](https://orgo.ai?r=aiguy)
+## The flagship: Revenue Partnerships Operator for [Orgo](https://orgo.ai?r=aiguy)
 
-Find opportunities, keep revenue work moving, and make the next best action obvious.
+One workflow from first introduction to producing partner. The go-to-market workforce and Revenue Partner bring partners, creators, and leads in. Affiliate Manager takes care of them. What it learns feeds the next round.
 
-- Qualify opportunities across reactivation, outbound, partners, and content signals.
-- Keep proposals, pipeline, commitments, and follow-up from disappearing.
-- Return with evidence, priorities, and decisions instead of another dashboard.
+- **Bring them in.** Research and recruit referral partners, affiliates, creators, and sponsors, and qualify the opportunities that come back.
+- **Take care of them.** Onboard, activate, and support every partner with a living relationship card, so no conversation or promise gets forgotten.
+- **Close the loop.** Measure what each partnership produces, reactivate quiet partners, and turn what works into the next campaign.
 
-[**See the agent →**](https://github.com/jbellsolutions/revenue-partner-orgo) · [**Start the walkthrough →**](https://github.com/jbellsolutions/revenue-partner-orgo/blob/main/START-HERE.md)
+Self-installing and approval-gated, working from a private Orgo computer. Outreach, terms, payouts, and account access stay with a human.
 
-## Meet the AI Team
+[**See the agent →**](https://github.com/jbellsolutions/affiliate-manager-agent) · [**Start the walkthrough →**](https://github.com/jbellsolutions/affiliate-manager-agent/blob/main/START-HERE.md)
 
-Revenue Partner is the free public front door. The expanded team is available by request so each role can be matched to the right business, context, and implementation.
+<p>
+  <a href="https://truerevenuepartnerships.com/partnerships-101/">
+    <img src="docs/assets/revenue-partnerships-video.webp" width="560" alt="Watch the Revenue Partnerships walkthrough with Justin Bellware">
+  </a>
+</p>
 
-Select any preview to open the full-size README view.
+## Meet the AI Workforce
+
+Every agent is self-installing and approval-gated. Start with the job closest to revenue, then add the next one. Select any screenshot to open it full size.
 
 <table>
 <tr>
-<td colspan="3">
-<a href="docs/assets/revenue-partner-readme-preview.webp"><img src="docs/assets/revenue-partner-readme-preview.webp" align="left" width="200" alt="Revenue Partner README preview showing grow revenue, run operations, and get time back"></a>
-<h3>Revenue Partner · Free</h3>
-<p>The front door to the work closest to money: opportunities, pipeline, proposals, and follow-up.</p>
-<p><a href="https://usingaitoscale.com/revenue-partner-kit/"><strong>Claim your Revenue Partner →</strong></a> · <a href="https://github.com/jbellsolutions/revenue-partner-orgo">See the agent →</a></p>
+<td colspan="4">
+<img src="docs/assets/icons/gtm-workforce.svg" width="56" align="left" alt="">
+<strong>Featured · Go-to-Market Workforce</strong><br>
+A full go-to-market workforce: a Chief Sales Officer, cold email, contextual email and SMS conversations, CRM handoff, and optional affiliate management. Installed on an Orgo computer or a VPS.<br>
+<a href="https://github.com/jbellsolutions/james-camp-ai-guy-gtm"><strong>Get the workforce →</strong></a>
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-<a href="docs/assets/ai-cofounder-orgo-readme-preview.webp"><img src="docs/assets/ai-cofounder-orgo-readme-preview.webp" width="100%" alt="AI Co-Founder README preview showing strategy, leadership, delegation, and coordinated execution"></a>
-<p><strong>AI Co-Founder</strong><br>Strategy, leadership, and delegation.</p>
-<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+<td align="center" valign="top" width="25%">
+<strong>1 · Affiliate Manager</strong><br>
+<sub>Recruit, activate, and grow partners</sub><br><br>
+<img src="docs/assets/icons/affiliate-manager.svg" width="44" alt=""><br><br>
+<a href="docs/assets/affiliate-manager-agent-readme-preview.webp"><img src="docs/assets/affiliate-manager-agent-readme-preview.webp" width="150" alt="Affiliate Manager README preview showing partner recruiting, activation, support, and growth"></a><br><br>
+<a href="https://github.com/jbellsolutions/affiliate-manager-agent"><strong>Get the agent →</strong></a>
 </td>
-<td width="33%" valign="top">
-<a href="docs/assets/go-to-market-orgo-readme-preview.webp"><img src="docs/assets/go-to-market-orgo-readme-preview.webp" width="100%" alt="Go-to-Market README preview showing opportunity research, demand creation, and revenue follow-through"></a>
-<p><strong>Go-to-Market</strong><br>Research, campaigns, partnerships, and qualified conversations.</p>
-<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+<td align="center" valign="top" width="25%">
+<strong>2 · Revenue Partner</strong><br>
+<sub>Opportunities, pipeline, proposals, follow-up</sub><br><br>
+<img src="docs/assets/icons/revenue-partner.svg" width="44" alt=""><br><br>
+<a href="docs/assets/revenue-partner-readme-preview.webp"><img src="docs/assets/revenue-partner-readme-preview.webp" width="150" alt="Revenue Partner README preview showing grow revenue, run operations, and get time back"></a><br><br>
+<a href="https://github.com/jbellsolutions/revenue-partner-orgo"><strong>Get the agent →</strong></a>
 </td>
-<td width="33%" valign="top">
-<a href="docs/assets/video-editor-content-ops-orgo-readme-preview.webp"><img src="docs/assets/video-editor-content-ops-orgo-readme-preview.webp" width="100%" alt="Video Editor and Content Ops README preview showing recording, editing, clips, shorts, and content drafts"></a>
-<p><strong>Video Editor and Content Ops</strong><br>Clean recordings, contextual clips, shorts, thumbnails, and publishing drafts.</p>
-<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+<td align="center" valign="top" width="25%">
+<strong>AI Co-Founder</strong><br>
+<sub>Strategy, leadership, and delegation</sub><br><br>
+<img src="docs/assets/icons/ai-cofounder.svg" width="44" alt=""><br><br>
+<a href="docs/assets/ai-cofounder-orgo-readme-preview.webp"><img src="docs/assets/ai-cofounder-orgo-readme-preview.webp" width="150" alt="AI Co-Founder README preview showing strategy, leadership, delegation, and coordinated execution"></a><br><br>
+<a href="https://github.com/jbellsolutions/ai-cofounder-orgo"><strong>Get the agent →</strong></a>
+</td>
+<td align="center" valign="top" width="25%">
+<strong>Go-to-Market</strong><br>
+<sub>Research, campaigns, and qualified conversations</sub><br><br>
+<img src="docs/assets/icons/go-to-market.svg" width="44" alt=""><br><br>
+<a href="docs/assets/go-to-market-orgo-readme-preview.webp"><img src="docs/assets/go-to-market-orgo-readme-preview.webp" width="150" alt="Go-to-Market README preview showing opportunity research, demand creation, and revenue follow-through"></a><br><br>
+<a href="https://github.com/jbellsolutions/go-to-market-orgo"><strong>Get the agent →</strong></a>
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-<a href="docs/assets/operator-orgo-readme-preview.webp"><img src="docs/assets/operator-orgo-readme-preview.webp" width="100%" alt="Operator and Project Manager README preview showing organization, coordination, and dependable follow-through"></a>
-<p><strong>Operator / Project Manager</strong><br>Priorities, projects, coordination, and dependable execution.</p>
-<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+<td align="center" valign="top" width="25%">
+<strong>Video Editor and Content Ops</strong><br>
+<sub>Clips, shorts, thumbnails, and drafts</sub><br><br>
+<img src="docs/assets/icons/video-editor.svg" width="44" alt=""><br><br>
+<a href="docs/assets/video-editor-content-ops-orgo-readme-preview.webp"><img src="docs/assets/video-editor-content-ops-orgo-readme-preview.webp" width="150" alt="Video Editor and Content Ops README preview showing recording, editing, clips, shorts, and content drafts"></a><br><br>
+<a href="https://github.com/jbellsolutions/video-editor-content-ops-orgo"><strong>Get the agent →</strong></a>
 </td>
-<td width="33%" valign="top">
-<a href="docs/assets/affiliate-manager-agent-readme-preview.webp"><img src="docs/assets/affiliate-manager-agent-readme-preview.webp" width="100%" alt="Affiliate Manager README preview showing partner recruiting, activation, support, and growth"></a>
-<p><strong>Affiliate Manager</strong><br>Recruiting, activating, and growing partners.</p>
-<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+<td align="center" valign="top" width="25%">
+<strong>Operator / Project Manager</strong><br>
+<sub>Priorities, projects, and coordination</sub><br><br>
+<img src="docs/assets/icons/operator.svg" width="44" alt=""><br><br>
+<a href="docs/assets/operator-orgo-readme-preview.webp"><img src="docs/assets/operator-orgo-readme-preview.webp" width="150" alt="Operator and Project Manager README preview showing organization, coordination, and dependable follow-through"></a><br><br>
+<a href="https://github.com/jbellsolutions/operator-orgo"><strong>Get the agent →</strong></a>
 </td>
-<td width="33%" valign="top">
-<a href="docs/assets/head-of-ops-orgo-readme-preview.webp"><img src="docs/assets/head-of-ops-orgo-readme-preview.webp" width="100%" alt="Head of Ops README preview showing operational follow-through, business execution, and protected owner time"></a>
-<p><strong>Head of Ops</strong><br>Operational follow-through and protecting the owner's time.</p>
-<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+<td align="center" valign="top" width="25%">
+<strong>Head of Ops</strong><br>
+<sub>Follow-through that protects your time</sub><br><br>
+<img src="docs/assets/icons/head-of-ops.svg" width="44" alt=""><br><br>
+<a href="docs/assets/head-of-ops-orgo-readme-preview.webp"><img src="docs/assets/head-of-ops-orgo-readme-preview.webp" width="150" alt="Head of Ops README preview showing operational follow-through, business execution, and protected owner time"></a><br><br>
+<a href="https://github.com/jbellsolutions/head-of-ops-orgo"><strong>Get the agent →</strong></a>
 </td>
+<td></td>
 </tr>
 </table>
 
@@ -115,7 +141,23 @@ Use the included kickstart to choose the first job, load the business context, c
 
 [**Get the Partner Kit + kickstart →**](https://usingaitoscale.com/revenue-partner-kit/) · [**Book an implementation conversation →**](https://cal.com/usingaitoscale/github-request-private-access)
 
-## Our Favorite Repositories: Browser Box, Data Box & Lead Radar
+## Our Favorite Project: System One Workers
+
+### An AI workforce for the whole go-to-market
+
+One pod brings it together. An orchestrator interviews you, hires each worker, writes its charter, trains it on your SOPs, and supervises the work. Only you promote a worker to working on its own.
+
+[![Get early access to System One Workers](https://img.shields.io/badge/GET_EARLY_ACCESS_TO_SYSTEM_ONE_WORKERS-1F5B43?style=for-the-badge)](https://systemoneworkers.com/)
+
+- **Go-to-market workforce.** Revenue Partner tied in with partner recruiting, creator and influencer outreach, sponsors, and the follow-through that turns relationships into a revenue channel.
+- **Demand generation workforce.** Social accounts, each running in its own browser, sharing content, recruiting affiliates, and supporting capital raising.
+- **Memory you can open.** Every worker keeps its notes in an Obsidian vault, and every model call is metered.
+
+[![System One Workers: an AI partnership workforce that finds referral partners, affiliates, promoters, creators and sponsors](docs/assets/system-one-workers-site.webp)](https://systemoneworkers.com/)
+
+Now in an early-access pilot. [**See System One Workers →**](https://systemoneworkers.com/)
+
+## Our Favorite Repositories and Tools: Browser Box, Data Box & Lead Radar
 
 ### Give your agent hands, data, and buyers
 
@@ -135,15 +177,23 @@ Box Kit is free and open source (MIT). Run it on your own computer or server wit
 
 [**Get Box Kit →**](https://github.com/jbellsolutions/box-kit) · [**Request Lead Radar access →**](https://cal.com/usingaitoscale/github-request-private-access)
 
-## Revenue Partner Studio by Your AI Guy
+## Our Favorite In-House Tool: Better Than GrokBot
 
-Chat with Revenue Partner agents, delegate the work closest to revenue, and watch it happen on live remote screens. Private preview now; public release coming soon.
+Our self-hosted build of [Bops](https://bops.bot): a workforce of AI bots that runs business ops. Each bot has its own computer, email, and phone number, remembers everything, and asks before it sends, pays, or deletes. Text it, call it, email it, or reach it in Slack.
 
-### [Revenue Partner Studio by Your AI Guy — Request Access →](https://cal.com/usingaitoscale/github-request-private-access)
+<p>
+  <a href="https://github.com/jbellsolutions/bops-selfhosted">
+    <img src="docs/assets/bops-selfhosted-app.webp" width="560" alt="Self-hosted Bops: chat with a bot on the left while its cloud computer builds a lead list on four screens at once">
+  </a>
+</p>
+
+### [Better Than GrokBot, Self-Hosted — See the Proof →](https://usingaitoscale.com/proof/)
+
+[**Explore the self-hosted build →**](https://github.com/jbellsolutions/bops-selfhosted)
 
 ## About Justin
 
-I'm Justin Bellware—**Your AI Guy** in Tampa, Florida. I bring 15+ years across GTM, BizOps, GrowthOps, sales, and team building to one practical goal: make AI useful enough to do real work inside a real business.
+I'm Justin Bellware—**[Your AI Guy](https://www.skool.com/your-ai-guy/about)** in Tampa, Florida. I bring 15+ years across GTM, BizOps, GrowthOps, sales, and team building to one practical goal: make AI useful enough to do real work inside a real business.
 
 ## Complete repository index
 

@@ -107,7 +107,7 @@ A full go-to-market workforce: a Chief Sales Officer, cold email, contextual ema
 <sub>Follow-through that protects your time</sub><br><br>
 <img src="docs/assets/icons/head-of-ops.svg" width="44" alt=""><br><br>
 <a href="docs/assets/head-of-ops-orgo-readme-preview.webp"><img src="docs/assets/head-of-ops-orgo-readme-preview.webp" width="150" alt="Head of Ops README preview showing operational follow-through, business execution, and protected owner time"></a><br><br>
-<a href="https://github.com/jbellsolutions/head-of-ops-orgo"><strong>Get the agent →</strong></a>
+<a href="https://cal.com/usingaitoscale/github-ai-team-access"><strong>Request access →</strong></a>
 </td>
 <td></td>
 </tr>
@@ -224,14 +224,14 @@ Box Kit is free and open source (MIT). Run it on your own computer or server wit
 Our self-hosted build of [Bops](https://bops.bot): a workforce of AI bots that runs business ops. Each bot has its own computer, email, and phone number, remembers everything, and asks before it sends, pays, or deletes. Text it, call it, email it, or reach it in Slack.
 
 <p>
-  <a href="https://github.com/jbellsolutions/bops-selfhosted">
+  <a href="https://usingaitoscale.com/proof/">
     <img src="docs/assets/bops-selfhosted-app.webp" width="560" alt="Self-hosted Bops: chat with a bot on the left while its cloud computer builds a lead list on four screens at once">
   </a>
 </p>
 
 ### [Better Than GrokBot, Self-Hosted — See the Proof →](https://usingaitoscale.com/proof/)
 
-[**Explore the self-hosted build →**](https://github.com/jbellsolutions/bops-selfhosted)
+[**Request access to the self-hosted build →**](https://cal.com/usingaitoscale/github-request-private-access)
 
 ## About Justin
 

@@ -52,9 +52,9 @@ Every agent is self-installing and approval-gated. Start with the job closest to
 <tr>
 <td colspan="4">
 <img src="docs/assets/icons/gtm-workforce.svg" width="56" align="left" alt="">
-<strong>Featured · Go-to-Market Workforce</strong><br>
+<strong>Featured · AI Guy Go-to-Market Workforce</strong><br>
 A full go-to-market workforce: a Chief Sales Officer, cold email, contextual email and SMS conversations, CRM handoff, and optional affiliate management. Installed on an Orgo computer or a VPS.<br>
-<a href="https://github.com/jbellsolutions/james-camp-ai-guy-gtm"><strong>Get the workforce →</strong></a>
+<a href="https://github.com/jbellsolutions/ai-guy-gtm-workforce"><strong>Get the workforce →</strong></a>
 </td>
 </tr>
 <tr>

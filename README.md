@@ -1,117 +1,79 @@
 <div align="left">
 
-<h3>REVENUE PARTNERS · YOUR AI GUY</h3>
+<h3>REVENUE PARTNERSHIPS · YOUR AI GUY</h3>
 
-<h1>What's the point of AI if it's not generating revenue for you?</h1>
+<h1>Your next customer is already in someone else's CRM.</h1>
 
-<h3>Put an AI workforce to work on the nine parts of your business closest to revenue—the nine open loops almost every business has where money is falling through the cracks.</h3>
+<h3>Somebody else already paid for the traffic, built the trust, and owns the relationship. The Revenue Partnerships Program Manager is an AI workforce that finds those businesses, builds the relationships, and turns them into a revenue channel you own.</h3>
 
 <h2><em>If it doesn't make money, it doesn't make sense.</em></h2>
 
-<p><strong>Revenue partnerships are the front door to the work closest to money:</strong> opportunities, pipeline, proposals, partnerships, follow-up, and the open loops where revenue falls through the cracks.</p>
+[![Get the Revenue Partnerships Program Manager](https://img.shields.io/badge/GET_THE_REVENUE_PARTNERSHIPS_PROGRAM_MANAGER-B7791F?style=for-the-badge)](https://github.com/jbellsolutions/affiliate-manager-agent) [![Find your 5 heavy hitters](https://img.shields.io/badge/FIND_YOUR_5_HEAVY_HITTERS-1F5B43?style=for-the-badge)](https://map.truerevenuepartnerships.com/demo/#start)
 
-<p>Self-installing, approval-gated AI agents work from a private <a href="https://orgo.ai?r=aiguy">Orgo</a> computer, learn the business, and bring the next decision back to a human.</p>
-
-[![Get the Revenue Partner and Partner Kit](https://img.shields.io/badge/GET_THE_REVENUE_PARTNER_%2B_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
-
-<p><strong>OPEN-SOURCE START · ONE-LINK INSTALLATION · SLACK + TELEGRAM · PRIVATE BUSINESS CONTEXT · HUMAN APPROVAL</strong></p>
-
-<p>Most businesses do not need another AI tool to manage. They need a capable workforce with clear jobs, the right context, and boundaries they can trust. Start with the job closest to revenue, prove it works, and expand only when the first loop is useful.</p>
+<p><strong>SELF-INSTALLING · APPROVAL-GATED · RUNS ON A PRIVATE <a href="https://orgo.ai?r=aiguy">ORGO</a> COMPUTER · SLACK + TELEGRAM · A LIVING CARD FOR EVERY PARTNER</strong></p>
 
 <p>
-  <a href="https://usingaitoscale.com/revenue-partner-kit/">
-    <img src="docs/assets/revenue-partner-nine-loops.webp" width="560" alt="A Revenue Partner coordinates nine open revenue loops across opportunities, outreach, follow-up, pipeline, proposals, partnerships, customers, reporting, and operations">
+  <a href="https://truerevenuepartnerships.com/partnerships-101/">
+    <img src="docs/assets/revenue-partnerships-video.webp" width="640" alt="Watch Revenue Partnerships in 3 minutes with Justin Bellware">
   </a>
+  <br><sub>Watch this first: Revenue Partnerships in 3 minutes.</sub>
 </p>
 
 </div>
 
-## The flagship: Revenue Partnerships Operator for [Orgo](https://orgo.ai?r=aiguy)
+## You don't need more leads. You need 5 heavy hitters.
 
-One workflow from first introduction to producing partner. The go-to-market workforce and Revenue Partner bring partners, creators, and leads in. Affiliate Manager takes care of them. What it learns feeds the next round.
+Every customer you want is already doing business with someone else. They're in somebody else's CRM, somebody else's funnel, somebody else's audience. The trust is already built. You just haven't borrowed it yet.
 
-- **Bring them in.** Research and recruit referral partners, affiliates, creators, and sponsors, and qualify the opportunities that come back.
-- **Take care of them.** Onboard, activate, and support every partner with a living relationship card, so no conversation or promise gets forgotten.
-- **Close the loop.** Measure what each partnership produces, reactivate quiet partners, and turn what works into the next campaign.
+- **5 power partners** sending warm introductions
+- **5 power affiliates** promoting you to their audience
+- **5 businesses** sending you referrals every month
 
-Self-installing and approval-gated, working from a private Orgo computer. Outreach, terms, payouts, and account access stay with a human.
+Five of any one of these, or any mix of the three, is enough to change a business. Do the math (an example, not a promise): if each of your 5 heavy hitters sent you 2 customers a month, that's 10 new customers a month you never paid an ad for.
 
-[**See the agent →**](https://github.com/jbellsolutions/affiliate-manager-agent) · [**Start the walkthrough →**](https://github.com/jbellsolutions/affiliate-manager-agent/blob/main/START-HERE.md)
+[**Find your 5 heavy hitters →**](https://map.truerevenuepartnerships.com/demo/#start)
 
-<p>
-  <a href="https://truerevenuepartnerships.com/partnerships-101/">
-    <img src="docs/assets/revenue-partnerships-video.webp" width="560" alt="Watch the Revenue Partnerships walkthrough with Justin Bellware">
-  </a>
-</p>
+## What's the point of AI if it's not generating revenue for you?
 
-## Meet the AI Workforce
+Most businesses point AI at more leads: more ads, more lists, more cold messages. But you pay for a lead before you know if it will ever buy, ads cost more every year, and the moment you stop paying, the flow stops. You're renting attention. You never own it.
 
-Every agent is self-installing and approval-gated. Start with the job closest to revenue, then add the next one. Select any screenshot to open it full size.
+"AI outreach" makes it worse. Volume tools send more; they don't remember more. A CRM stores fields, not relationships. An agent with no memory re-asks, over-asks, and asks too early. That's how a partner who sent you clients for two years ends up unsubscribing.
+
+**Most partner programs don't die from a bad offer. They die from forgetting.**
+
+## The mechanism: the Relationship Layer
+
+The fix isn't a better template. It's memory. Every person, every partner, and every revenue partnership gets a living card. The cards link into one context graph, and the agent has to read that graph before it's allowed to write a single word.
 
 <table>
 <tr>
-<td colspan="4">
-<img src="docs/assets/icons/gtm-workforce.svg" width="56" align="left" alt="">
-<strong>Featured · AI Guy Go-to-Market Workforce</strong><br>
-A full go-to-market workforce: a Chief Sales Officer, cold email, contextual email and SMS conversations, CRM handoff, and optional affiliate management. Installed on an Orgo computer or a VPS.<br>
-<a href="https://github.com/jbellsolutions/ai-guy-gtm-workforce"><strong>Get the workforce →</strong></a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="25%">
-<strong>1 · Affiliate Manager</strong><br>
-<sub>Recruit, activate, and grow partners</sub><br><br>
-<img src="docs/assets/icons/affiliate-manager.svg" width="44" alt=""><br><br>
-<a href="docs/assets/affiliate-manager-agent-readme-preview.webp"><img src="docs/assets/affiliate-manager-agent-readme-preview.webp" width="150" alt="Affiliate Manager README preview showing partner recruiting, activation, support, and growth"></a><br><br>
-<a href="https://github.com/jbellsolutions/affiliate-manager-agent"><strong>Get the agent →</strong></a>
-</td>
-<td align="center" valign="top" width="25%">
-<strong>2 · Revenue Partner</strong><br>
-<sub>Opportunities, pipeline, proposals, follow-up</sub><br><br>
-<img src="docs/assets/icons/revenue-partner.svg" width="44" alt=""><br><br>
-<a href="docs/assets/revenue-partner-readme-preview.webp"><img src="docs/assets/revenue-partner-readme-preview.webp" width="150" alt="Revenue Partner README preview showing grow revenue, run operations, and get time back"></a><br><br>
-<a href="https://github.com/jbellsolutions/revenue-partner-orgo"><strong>Get the agent →</strong></a>
-</td>
-<td align="center" valign="top" width="25%">
-<strong>AI Co-Founder</strong><br>
-<sub>Strategy, leadership, and delegation</sub><br><br>
-<img src="docs/assets/icons/ai-cofounder.svg" width="44" alt=""><br><br>
-<a href="docs/assets/ai-cofounder-orgo-readme-preview.webp"><img src="docs/assets/ai-cofounder-orgo-readme-preview.webp" width="150" alt="AI Co-Founder README preview showing strategy, leadership, delegation, and coordinated execution"></a><br><br>
-<a href="https://github.com/jbellsolutions/ai-cofounder-orgo"><strong>Get the agent →</strong></a>
-</td>
-<td align="center" valign="top" width="25%">
-<strong>Go-to-Market</strong><br>
-<sub>Research, campaigns, and qualified conversations</sub><br><br>
-<img src="docs/assets/icons/go-to-market.svg" width="44" alt=""><br><br>
-<a href="docs/assets/go-to-market-orgo-readme-preview.webp"><img src="docs/assets/go-to-market-orgo-readme-preview.webp" width="150" alt="Go-to-Market README preview showing opportunity research, demand creation, and revenue follow-through"></a><br><br>
-<a href="https://github.com/jbellsolutions/go-to-market-orgo"><strong>Get the agent →</strong></a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="25%">
-<strong>Video Editor and Content Ops</strong><br>
-<sub>Clips, shorts, thumbnails, and drafts</sub><br><br>
-<img src="docs/assets/icons/video-editor.svg" width="44" alt=""><br><br>
-<a href="docs/assets/video-editor-content-ops-orgo-readme-preview.webp"><img src="docs/assets/video-editor-content-ops-orgo-readme-preview.webp" width="150" alt="Video Editor and Content Ops README preview showing recording, editing, clips, shorts, and content drafts"></a><br><br>
-<a href="https://github.com/jbellsolutions/video-editor-content-ops-orgo"><strong>Get the agent →</strong></a>
-</td>
-<td align="center" valign="top" width="25%">
-<strong>Operator / Project Manager</strong><br>
-<sub>Priorities, projects, and coordination</sub><br><br>
-<img src="docs/assets/icons/operator.svg" width="44" alt=""><br><br>
-<a href="docs/assets/operator-orgo-readme-preview.webp"><img src="docs/assets/operator-orgo-readme-preview.webp" width="150" alt="Operator and Project Manager README preview showing organization, coordination, and dependable follow-through"></a><br><br>
-<a href="https://github.com/jbellsolutions/operator-orgo"><strong>Get the agent →</strong></a>
-</td>
-<td align="center" valign="top" width="25%">
-<strong>Head of Ops</strong><br>
-<sub>Follow-through that protects your time</sub><br><br>
-<img src="docs/assets/icons/head-of-ops.svg" width="44" alt=""><br><br>
-<a href="docs/assets/head-of-ops-orgo-readme-preview.webp"><img src="docs/assets/head-of-ops-orgo-readme-preview.webp" width="150" alt="Head of Ops README preview showing operational follow-through, business execution, and protected owner time"></a><br><br>
-<a href="https://cal.com/usingaitoscale/github-ai-team-access"><strong>Request access →</strong></a>
-</td>
-<td></td>
+<td width="50%" valign="top"><a href="docs/assets/program/relationship-card.webp"><img src="docs/assets/program/relationship-card.webp" width="100%" alt="A person card in Obsidian: role, how to reach them, consent per channel, preferred channel, open loops, facts with sources, and calls"></a></td>
+<td width="50%" valign="top"><a href="docs/assets/program/context-graph.webp"><img src="docs/assets/program/context-graph.webp" width="100%" alt="The context graph linking people, partners, and partnerships across a sample program"></a></td>
 </tr>
 </table>
+<sub>From the fictional sample program that ships with the agent. Every line on a card has a source.</sub>
+
+- **Person cards** hold how to reach them, consent per channel, open loops, facts with sources, and the last conversation, quoted.
+- **Partner cards** hold the audience, niches, promo channels, and sourced research.
+- **Partnership cards** hold who's involved, the stage, the next step, the partner plan, and terms only the owner can set.
+
+**The rule:** before any draft, the agent pulls a short brief: do-not flags first, key facts, open loops, the last five conversations, and the next question to ask. A draft written from stale context, or from none, is refused.
+
+## Meet your Revenue Partnerships Program Manager for [Orgo](https://orgo.ai?r=aiguy)
+
+<a href="https://github.com/jbellsolutions/affiliate-manager-agent"><img src="docs/assets/program/program-manager-hero.webp" width="640" alt="The Revenue Partnerships Program Manager coordinating a network of partners, affiliates, and referral sources"></a>
+
+It runs the whole partner channel, from first introduction to producing partner:
+
+1. **Find them.** Build the list of power partners, access partners, affiliates, creators, and referral sources in your market, and research each one.
+2. **Start the conversation.** Draft a short, specific message from the relationship card. You approve every send.
+3. **Activate them.** Onboard, set up the first campaign, and keep every promise on both sides from slipping.
+4. **Grow and reactivate.** Measure what each partnership produces from your system of record, never from message volume, and wake up the quiet ones.
+5. **Close the loop.** Revenue Partner and the go-to-market workforce feed it new opportunities, and what works becomes the next campaign.
+
+Self-installing and approval-gated, working from a private Orgo computer. Outreach, terms, payouts, and account access stay with a human.
+
+[**Get the agent →**](https://github.com/jbellsolutions/affiliate-manager-agent) · [**Start the walkthrough →**](https://github.com/jbellsolutions/affiliate-manager-agent/blob/main/START-HERE.md)
 
 ## Proof from the field
 
@@ -155,6 +117,53 @@ What the workforce looks like in real use. Names, contact details, and client in
 
 [**See more proof →**](https://usingaitoscale.com/proof/)
 
+## Meet the AI Workforce
+
+The Program Manager leads. The rest of the workforce plugs into it, and every agent is self-installing and approval-gated. Start with the job closest to revenue, then add the next one.
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/jbellsolutions/affiliate-manager-agent"><img src="docs/assets/workforce/revenue-partnerships-program-manager.webp" width="100%" alt="Revenue Partnerships Program Manager, the relationship builder: recruits power partners, affiliates and creators, keeps a living relationship card for every partner, and activates, supports and reactivates the program"></a><br>
+<a href="https://github.com/jbellsolutions/affiliate-manager-agent"><strong>Get the agent →</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/jbellsolutions/revenue-partner-orgo"><img src="docs/assets/workforce/revenue-partner.webp" width="100%" alt="Revenue Partner, the opportunity hunter: qualifies reactivation, outbound and partner leads and keeps proposals, pipeline and follow-up moving"></a><br>
+<a href="https://github.com/jbellsolutions/revenue-partner-orgo"><strong>Get the agent →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/jbellsolutions/ai-guy-gtm-workforce"><img src="docs/assets/workforce/ai-guy-gtm-workforce.webp" width="100%" alt="AI Guy Go-to-Market Workforce, the outbound team: a Chief Sales Officer, cold email, replies and contextual SMS, and a clean CRM handoff"></a><br>
+<a href="https://github.com/jbellsolutions/ai-guy-gtm-workforce"><strong>Get the workforce →</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/jbellsolutions/ai-cofounder-orgo"><img src="docs/assets/workforce/ai-cofounder.webp" width="100%" alt="AI Co-Founder, the strategist: sets priorities, coordinates a leadership team of agents, and delegates the work"></a><br>
+<a href="https://github.com/jbellsolutions/ai-cofounder-orgo"><strong>Get the agent →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/jbellsolutions/go-to-market-orgo"><img src="docs/assets/workforce/go-to-market.webp" width="100%" alt="Go-to-Market, the demand creator: researches markets, runs campaigns and partnerships, and prepares proposals"></a><br>
+<a href="https://github.com/jbellsolutions/go-to-market-orgo"><strong>Get the agent →</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/jbellsolutions/video-editor-content-ops-orgo"><img src="docs/assets/workforce/video-editor-content-ops.webp" width="100%" alt="Video Editor and Content Ops, the content producer: clean edits, clips, shorts, thumbnails and publishing drafts"></a><br>
+<a href="https://github.com/jbellsolutions/video-editor-content-ops-orgo"><strong>Get the agent →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/jbellsolutions/operator-orgo"><img src="docs/assets/workforce/operator.webp" width="100%" alt="Operator and Project Manager: priorities, calendar, inbox, projects and dependable follow-through"></a><br>
+<a href="https://github.com/jbellsolutions/operator-orgo"><strong>Get the agent →</strong></a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://cal.com/usingaitoscale/github-ai-team-access"><img src="docs/assets/workforce/head-of-ops.webp" width="100%" alt="Head of Ops, the chief of staff: runs operations, proposals and follow-through and protects your time"></a><br>
+<a href="https://cal.com/usingaitoscale/github-ai-team-access"><strong>Request access →</strong></a>
+</td>
+</tr>
+</table>
+
 ## How it works
 
 1. **Pick one business job.** Start with the revenue or operating loop where dropped work is already costing time or money.
@@ -169,13 +178,13 @@ We worked out a deal with [Orgo](https://orgo.ai?r=aiguy) for AI Guy subscribers
 
 [**Claim the Orgo discount →**](https://orgo.ai?r=aiguy)
 
-## Start free. Make the first agent useful.
+## The offer: start with one channel and prove it
 
-Revenue Partner and its documentation are free. The **Revenue Partner Kit** adds the complete training and preparation material. Start a **seven-day free trial** to get the implementation kickstart, weekly live builds, coaching, training, and support. Continuing membership is **$99/month** and can be cancelled anytime.
+The Revenue Partnerships Program Manager and its documentation are open source. The **Revenue Partner Kit** adds the complete training and preparation material. Start a **seven-day free trial** to get the implementation kickstart, weekly live builds, coaching, training, and support. Continuing membership is **$99/month** and can be cancelled anytime.
 
 [Orgo](https://orgo.ai?r=aiguy), model usage, and other third-party services are separate. The agents run on accounts you control, and private credentials or business context never belong in a public repository.
 
-[![Get the free Revenue Partner and Partner Kit](https://img.shields.io/badge/START_WITH_THE_FREE_PARTNER_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
+[![Start with the Partner Kit](https://img.shields.io/badge/START_WITH_THE_PARTNER_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
 
 ## Want us to help install it?
 

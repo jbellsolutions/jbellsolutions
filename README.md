@@ -42,15 +42,50 @@ Revenue Partner is the free public front door. The expanded team is available by
 
 Select any preview to open the full-size README view.
 
-| Role | Preview | What goes into the job | Access |
-|---|---|---|---|
-| **Revenue Partner** | <a href="docs/assets/revenue-partner-readme-preview.webp"><img src="docs/assets/revenue-partner-readme-preview.webp" width="120" alt="Revenue Partner README preview showing grow revenue, run operations, and get time back"></a> | Opportunities, pipeline, proposals, and follow-up. | [Claim your Revenue Partner →](https://usingaitoscale.com/revenue-partner-kit/) |
-| **AI Co-Founder** | <a href="docs/assets/ai-cofounder-orgo-readme-preview.webp"><img src="docs/assets/ai-cofounder-orgo-readme-preview.webp" width="120" alt="AI Co-Founder README preview showing strategy, leadership, delegation, and coordinated execution"></a> | Strategy, leadership, and delegation. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Go-to-Market** | <a href="docs/assets/go-to-market-orgo-readme-preview.webp"><img src="docs/assets/go-to-market-orgo-readme-preview.webp" width="120" alt="Go-to-Market README preview showing opportunity research, demand creation, and revenue follow-through"></a> | Research, campaigns, partnerships, and qualified conversations. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Video Editor and Content Ops** | <a href="docs/assets/video-editor-content-ops-orgo-readme-preview.webp"><img src="docs/assets/video-editor-content-ops-orgo-readme-preview.webp" width="120" alt="Video Editor and Content Ops README preview showing recording, editing, clips, shorts, and content drafts"></a> | Clean recordings, contextual clips, shorts, thumbnails, and publishing drafts. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Operator / Project Manager** | <a href="docs/assets/operator-orgo-readme-preview.webp"><img src="docs/assets/operator-orgo-readme-preview.webp" width="120" alt="Operator and Project Manager README preview showing organization, coordination, and dependable follow-through"></a> | Priorities, projects, coordination, and dependable execution. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Affiliate Manager** | <a href="docs/assets/affiliate-manager-agent-readme-preview.webp"><img src="docs/assets/affiliate-manager-agent-readme-preview.webp" width="120" alt="Affiliate Manager README preview showing partner recruiting, activation, support, and growth"></a> | Recruiting, activating, and growing partners. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
-| **Head of Ops** | <a href="docs/assets/head-of-ops-orgo-readme-preview.webp"><img src="docs/assets/head-of-ops-orgo-readme-preview.webp" width="120" alt="Head of Ops README preview showing operational follow-through, business execution, and protected owner time"></a> | Operational follow-through and protecting the owner's time. | [Request access →](https://cal.com/usingaitoscale/github-ai-team-access) |
+<table>
+<tr>
+<td colspan="3">
+<a href="docs/assets/revenue-partner-readme-preview.webp"><img src="docs/assets/revenue-partner-readme-preview.webp" align="left" width="200" alt="Revenue Partner README preview showing grow revenue, run operations, and get time back"></a>
+<h3>Revenue Partner · Free</h3>
+<p>The front door to the work closest to money: opportunities, pipeline, proposals, and follow-up.</p>
+<p><a href="https://usingaitoscale.com/revenue-partner-kit/"><strong>Claim your Revenue Partner →</strong></a> · <a href="https://github.com/jbellsolutions/revenue-partner-orgo">See the agent →</a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="docs/assets/ai-cofounder-orgo-readme-preview.webp"><img src="docs/assets/ai-cofounder-orgo-readme-preview.webp" width="100%" alt="AI Co-Founder README preview showing strategy, leadership, delegation, and coordinated execution"></a>
+<p><strong>AI Co-Founder</strong><br>Strategy, leadership, and delegation.</p>
+<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="docs/assets/go-to-market-orgo-readme-preview.webp"><img src="docs/assets/go-to-market-orgo-readme-preview.webp" width="100%" alt="Go-to-Market README preview showing opportunity research, demand creation, and revenue follow-through"></a>
+<p><strong>Go-to-Market</strong><br>Research, campaigns, partnerships, and qualified conversations.</p>
+<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="docs/assets/video-editor-content-ops-orgo-readme-preview.webp"><img src="docs/assets/video-editor-content-ops-orgo-readme-preview.webp" width="100%" alt="Video Editor and Content Ops README preview showing recording, editing, clips, shorts, and content drafts"></a>
+<p><strong>Video Editor and Content Ops</strong><br>Clean recordings, contextual clips, shorts, thumbnails, and publishing drafts.</p>
+<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="docs/assets/operator-orgo-readme-preview.webp"><img src="docs/assets/operator-orgo-readme-preview.webp" width="100%" alt="Operator and Project Manager README preview showing organization, coordination, and dependable follow-through"></a>
+<p><strong>Operator / Project Manager</strong><br>Priorities, projects, coordination, and dependable execution.</p>
+<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="docs/assets/affiliate-manager-agent-readme-preview.webp"><img src="docs/assets/affiliate-manager-agent-readme-preview.webp" width="100%" alt="Affiliate Manager README preview showing partner recruiting, activation, support, and growth"></a>
+<p><strong>Affiliate Manager</strong><br>Recruiting, activating, and growing partners.</p>
+<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+</td>
+<td width="33%" valign="top">
+<a href="docs/assets/head-of-ops-orgo-readme-preview.webp"><img src="docs/assets/head-of-ops-orgo-readme-preview.webp" width="100%" alt="Head of Ops README preview showing operational follow-through, business execution, and protected owner time"></a>
+<p><strong>Head of Ops</strong><br>Operational follow-through and protecting the owner's time.</p>
+<p><a href="https://cal.com/usingaitoscale/github-ai-team-access">Request access →</a></p>
+</td>
+</tr>
+</table>
 
 ## How it works
 
@@ -80,23 +115,25 @@ Use the included kickstart to choose the first job, load the business context, c
 
 [**Get the Partner Kit + kickstart →**](https://usingaitoscale.com/revenue-partner-kit/) · [**Book an implementation conversation →**](https://cal.com/usingaitoscale/github-request-private-access)
 
-## Our Favorite Repository Is Super Browser
+## Our Favorite Repositories: Browser Box, Data Box & Lead Radar
 
-### Super Browser 3.0 Is Coming
+### Give your agent hands, data, and buyers
 
-**A major launch is on the way.** [SuperBrowser.online](https://superbrowser.online/waitlist) will bring the complete dashboard, an AI agent for every profile, workflows, files, scraped documentation, tool visibility, and visible execution together in one place.
+**Three tools that work as one stack.** [Box Kit](https://github.com/jbellsolutions/box-kit) gives any AI agent a real browser and a single, cost-capped door to web data. Lead Radar turns that reach into a ranked list of people who are already asking for what you sell.
 
-[![Join the Super Browser 3.0 waitlist](https://img.shields.io/badge/JOIN_THE_SUPER_BROWSER_3.0_WAITLIST-1F5B43?style=for-the-badge)](https://superbrowser.online/waitlist)
+[![Get Box Kit: Browser Box + Data Box](https://img.shields.io/badge/GET_BOX_KIT_%C2%B7_BROWSER_BOX_%2B_DATA_BOX-1F5B43?style=for-the-badge)](https://github.com/jbellsolutions/box-kit)
 
-One idea has kept evolving: give an agent the right browser for the job, make its plan visible, and keep consequential actions behind human approval.
+One idea keeps getting sharper: give the agent the right tool for the job, keep the tool list honest, and keep consequential actions behind human approval.
 
-[![Super Browser architecture routing Chat, Workflows, Templates, and Files across 15 browser, computer, data, scraping, and app-action tools with human approval and verification](docs/assets/super-browser-architecture.webp)](https://superbrowser.online/waitlist)
+[![Browser Box and Data Box connect Claude Code, Codex, Hermes, or any MCP or HTTP agent to a self-hosted browser and a cost-capped data door, feeding Lead Radar, which turns one offer into ranked leads and drafted openers with human approval](docs/assets/box-kit-lead-radar-architecture.webp)](https://github.com/jbellsolutions/box-kit)
 
-1. **[Super Saiyan Browser · Public V1](https://github.com/jbellsolutions/super-saiyan-browser)** — provider routing, human approvals, durable artifacts, and verification in one public starting point.
-2. **Coordinated Browser Agents · V2 groundwork** — private intermediate work added persistent state, coordinated agents, shared context, and tighter run control.
-3. **Super Browser 3.0 · Coming soon** — a complete dashboard with chat, an AI agent for every profile, scraped documentation in one place, workflows, templates, files, tool visibility, and visible execution.
+1. **[Browser Box](https://github.com/jbellsolutions/box-kit)** · Public in Box Kit. One self-hosted browser behind one door. Read JavaScript pages, click, type, log in and stay logged in, take screenshots, or hand over a whole goal. If a tool is listed, it works. If it can't work right now, `status` says why.
+2. **[Data Box](https://github.com/jbellsolutions/box-kit)** · Public in Box Kit. One door to web data over MCP, HTTP, or the command line. Scrape, search, crawl, and extract. Nothing paid runs until you approve the plan, and every paid call is capped before it runs.
+3. **Lead Radar** · Private preview. Describe your offer in plain English and get ranked lists of people publicly asking for it across Reddit, YouTube, TikTok, Instagram, Threads, LinkedIn, Facebook groups, and Google. It never posts, comments, likes, or DMs. It drafts the opener, and a human sends it.
 
-[**Explore public V1 →**](https://github.com/jbellsolutions/super-saiyan-browser) · [**Join the Super Browser 3.0 waitlist →**](https://superbrowser.online/waitlist)
+Box Kit is free and open source (MIT). Run it on your own computer or server with your own keys.
+
+[**Get Box Kit →**](https://github.com/jbellsolutions/box-kit) · [**Request Lead Radar access →**](https://cal.com/usingaitoscale/github-request-private-access)
 
 ## Revenue Partner Studio by Your AI Guy
 
@@ -131,6 +168,7 @@ Snapshot refreshed **September 13, 2026**: **221 repositories** — **116 public
 - **[Claude Cost Optimizer](https://github.com/jbellsolutions/claude-cost-optimizer)** · `public`
 - **[Claude Dotfiles Backup](https://github.com/jbellsolutions/claude-dotfiles-backup)** · `private` - Claude Code config backup: skills, commands, settings, projects, memory
 - **[Crewai](https://github.com/jbellsolutions/crewAI)** · `public` - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together se...
+- **[Data Box](https://github.com/jbellsolutions/data-box)** · `private` - One door to data: scrape, search, crawl, extract, and run data sources over MCP, HTTP, and CLI, with every paid call capped. Pairs with Browser Box.
 - **[Dial Desk Swarm](https://github.com/jbellsolutions/dial-desk-swarm)** · `public`
 - **[Flowise](https://github.com/jbellsolutions/Flowise)** · `public` - Drag & drop UI to build your customized LLM flow
 - **[Forge](https://github.com/jbellsolutions/forge)** · `public` - Model-agnostic, self-learning, self-healing agent harness — Python SDK + Claude Code skill/slash/MCP
@@ -141,7 +179,7 @@ Snapshot refreshed **September 13, 2026**: **221 repositories** — **116 public
 - **[Hermes Super Agent](https://github.com/jbellsolutions/hermes-super-agent)** · `public` - Multi-agent fleet fabric on top of Hermes — A2A protocol + NATS event bus + Temporal durable workflows + Tier 2 VPS spawning. Run a fleet of specia...
 - **[Hermes Super Agent Internal](https://github.com/jbellsolutions/hermes-super-agent-internal)** · `private` - Internal working copy of hermes-super-agent. Contains the full deployments inventory + vault/projects/ that are scrubbed from the public copy. Sour...
 - **[Hermes Super Agent Private](https://github.com/jbellsolutions/hermes-super-agent-private)** · `private` - Private encrypted bootstrap overlay for Justin's Hermes Super Agent profiles
-- **[Hermes Workforce Router](https://github.com/jbellsolutions/hermes-workforce-router)** · `public` - Hermes plugin and skill for safe, readiness-aware routing across Codex, Claude Code, Super Browser, Agent Zero, and SDA
+- **[Hermes Workforce Router](https://github.com/jbellsolutions/hermes-workforce-router)** · `public` - Hermes plugin and skill for safe, readiness-aware routing across Codex, Claude Code, Data Box, Agent Zero, and SDA
 - **[Josh Oc Project](https://github.com/jbellsolutions/josh-oc-project)** · `private` - Production-grade AI agent teams for every business department. 52 operational rules, 20 team presets, self-healing pipelines.
 - **[Metagpt](https://github.com/jbellsolutions/MetaGPT)** · `public` - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - **[Multi Model Super Sayn](https://github.com/jbellsolutions/multi-model-super-sayn)** · `public` - Claude Code as multi-model orchestrator — routes tasks to Gemini and Codex for 60-80% cost savings on delegable AI work
@@ -153,7 +191,6 @@ Snapshot refreshed **September 13, 2026**: **221 repositories** — **116 public
 - **[Sda Share Loop Test](https://github.com/jbellsolutions/sda-share-loop-test)** · `private` - Share Loop Test — an AI Guy Super Agent Workforce agent. Paste this URL into "From GitHub or Folder" to install.
 - **[Sda Share Loop Test Public](https://github.com/jbellsolutions/sda-share-loop-test-public)** · `public` - Sanitized public Share Loop Test agent for AI Guy Super Agent Workforce
 - **[Single Brain](https://github.com/jbellsolutions/single-brain)** · `public` - Autonomous dual-agent AI stack (OpenClaw + Hermes) on DigitalOcean. Slack + Telegram channels, DeepSeek V4 via OpenRouter, git-backed vault memory....
-- **[Super Browser](https://github.com/jbellsolutions/super-browser)** · `private`
 - **[Super Duper Agent](https://github.com/jbellsolutions/super-duper-agent)** · `private` - AI Guy Super Agent Workforce — desktop AI agent app backed by a local Hermes brain (OpenRouter/GLM-5.2). SuperAgent + Hermes + OpenHuman intelligence.
 - **[Super Duper Agent Public](https://github.com/jbellsolutions/super-duper-agent-public)** · `public` - Sanitized public starter for a local desktop AI agent workforce
 - **[Super Saiyan Browser](https://github.com/jbellsolutions/super-saiyan-browser)** · `public` - Super Saiyan Browser — agent plugin that routes browser automation to the right backend.
@@ -300,7 +337,7 @@ Snapshot refreshed **September 13, 2026**: **221 repositories** — **116 public
 - **[Reputation Resolutions Starter](https://github.com/jbellsolutions/reputation-resolutions-starter)** · `private` - Central hub for Reputation Resolutions — nurture system, project briefs, and specs
 - **[Sovereign Audience Method](https://github.com/jbellsolutions/sovereign-audience-method)** · `private`
 - **[Sovereign Trades Method](https://github.com/jbellsolutions/sovereign-trades-method)** · `private` - The Sovereign Trades Method — install in one prompt. Deployable AI ops stack for HVAC/plumbing/electrical/roofing/handyman/landscaping/pest-control...
-- **[The Operator](https://github.com/jbellsolutions/the-operator)** · `private` - Cloud operations system — runs 24/7 on Orgo, powered by Hermes Agent + Super Browser. Slack Socket Mode, Telegram, GPT-4o-mini, self-learning.
+- **[The Operator](https://github.com/jbellsolutions/the-operator)** · `private` - Cloud operations system — runs 24/7 on Orgo, powered by Hermes Agent + Data Box. Slack Socket Mode, Telegram, GPT-4o-mini, self-learning.
 - **[Vendor Match Engine](https://github.com/jbellsolutions/vendor-match-engine)** · `private` - Vendor scoring, matching, and procurement engine for Reputation Resolutions
 
 </details>

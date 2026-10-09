@@ -12,7 +12,7 @@
 
 <p>Self-installing, approval-gated AI agents work from a private <a href="https://orgo.ai?r=aiguy">Orgo</a> computer, learn the business, and bring the next decision back to a human.</p>
 
-[![Get the free Revenue Partner and Partner Kit](https://img.shields.io/badge/GET_THE_FREE_REVENUE_PARTNER_%2B_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
+[![Get the Revenue Partner and Partner Kit](https://img.shields.io/badge/GET_THE_REVENUE_PARTNER_%2B_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
 
 <p><strong>OPEN-SOURCE START · ONE-LINK INSTALLATION · SLACK + TELEGRAM · PRIVATE BUSINESS CONTEXT · HUMAN APPROVAL</strong></p>
 
@@ -112,6 +112,48 @@ A full go-to-market workforce: a Chief Sales Officer, cold email, contextual ema
 <td></td>
 </tr>
 </table>
+
+## Proof from the field
+
+What the workforce looks like in real use. Names, contact details, and client information are blacked out.
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+<a href="docs/assets/proof/client-slack-1.webp"><img src="docs/assets/proof/client-slack-1.webp" width="100%" alt="A client describes the work his AI agents now handle: cold email, podcast edits, publishing, and 100 conversations a day"></a>
+<a href="docs/assets/proof/client-slack-2.webp"><img src="docs/assets/proof/client-slack-2.webp" width="100%" alt="The client reports the agent is drafting his emails, doing podcast outreach, and finding partners"></a>
+<p><sub>A client's agents handling outreach, podcast work, and content.</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="docs/assets/proof/client-slack-mobile.webp"><img src="docs/assets/proof/client-slack-mobile.webp" width="100%" alt="The client says he did six to eight weeks of work in one week with his revenue agent"></a>
+<p><sub>"6-8 weeks worth of work this week."</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="docs/assets/proof/partner-linkedin.webp"><img src="docs/assets/proof/partner-linkedin.webp" width="100%" alt="A podcast partner sends a referral email to his database and offers to be a case study"></a>
+<p><sub>A partner sends referrals for podcast sponsors and offers to be a case study.</sub></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="docs/assets/proof/gtm-lead-reply.webp"><img src="docs/assets/proof/gtm-lead-reply.webp" width="100%" alt="The AI Guy Go-to-Market agent reports a verified, enriched lead reply from a live cold email campaign and asks before drafting a response"></a>
+<p><sub>The go-to-market agent finds and enriches a live lead reply, then asks before it answers.</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="docs/assets/proof/partner-email.webp"><img src="docs/assets/proof/partner-email.webp" width="100%" alt="A podcast host asks to white-label an AI speaking platform as a partner"></a>
+<p><sub>Partners coming back to build together.</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="docs/assets/proof/workforce-desktop.webp"><img src="docs/assets/proof/workforce-desktop.webp" width="100%" alt="Several agent workspaces running side by side: plugins, a Chief Sales Officer, go-to-market charters, and Browser Box"></a>
+<p><sub>The build: a Chief Sales Officer, campaign managers, and Browser Box working side by side.</sub></p>
+</td>
+</tr>
+</table>
+
+[**See more proof →**](https://usingaitoscale.com/proof/)
 
 ## How it works
 

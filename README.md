@@ -184,7 +184,7 @@ Now in an early-access pilot. [**See System One Workforce →**](https://systemo
 
 One idea keeps getting sharper: give the agent the right tool for the job, keep the tool list honest, and keep consequential actions behind human approval.
 
-[![Browser Box and Data Box connect Claude Code, Codex, Hermes, or any MCP or HTTP agent to a self-hosted browser and a cost-capped data door, feeding Lead Radar, which turns one offer into ranked leads and drafted openers with human approval](docs/assets/box-kit-lead-radar-architecture.webp)](https://github.com/jbellsolutions/box-kit)
+[![Browser Box, Data Box and ScrapeBox: your agent connects over MCP, HTTP or CLI to a self-hosted browser and a cost-capped data door, and ScrapeBox scrapes the public web, starting free and quoting every paid step before it runs](docs/assets/box-kit-scrapebox-architecture.webp)](https://github.com/jbellsolutions/box-kit)
 
 1. **[Browser Box](https://github.com/jbellsolutions/box-kit)** · Public in Box Kit. One self-hosted browser behind one door. Read JavaScript pages, click, type, log in and stay logged in, take screenshots, or hand over a whole goal. If a tool is listed, it works. If it can't work right now, `status` says why.
 2. **[Data Box](https://github.com/jbellsolutions/box-kit)** · Public in Box Kit. One door to web data over MCP, HTTP, or the command line. Turn any public URL into markdown, text, HTML, or links for free, and plug in paid sources like Firecrawl, Bright Data, Decodo, and Apify with your own keys. Every paid call is capped before it runs and reports what it actually cost.

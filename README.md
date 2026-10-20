@@ -1,14 +1,14 @@
 <div align="left">
 
-<h3>REVENUE PARTNERSHIPS · YOUR AI GUY</h3>
+<h3>FOR OWNERS WHO ARE DONE RENTING THEIR OWN MARKET FROM THE AD PLATFORMS</h3>
 
-<h1>Your next customer is already in someone else's CRM.</h1>
+<h1>Break free from the ad platforms.</h1>
 
-<h3>Somebody else already paid for the traffic, built the trust, and owns the relationship. The Revenue Partnerships Program Manager is an AI workforce that finds those businesses, builds the relationships, and turns them into a revenue channel you own.</h3>
+<h2>Your customers were never theirs.</h2>
 
 <h2><em>If it doesn't make money, it doesn't make sense.</em></h2>
 
-[![Get the Revenue Partnerships Program Manager](https://img.shields.io/badge/GET_THE_REVENUE_PARTNERSHIPS_PROGRAM_MANAGER-B7791F?style=for-the-badge)](https://github.com/jbellsolutions/affiliate-manager-agent) [![Find your 5 heavy hitters](https://img.shields.io/badge/FIND_YOUR_5_HEAVY_HITTERS-1F5B43?style=for-the-badge)](https://map.truerevenuepartnerships.com/demo/#start)
+[![Get the Revenue Partnerships Program Manager](https://img.shields.io/badge/GET_THE_REVENUE_PARTNERSHIPS_PROGRAM_MANAGER-B7791F?style=for-the-badge)](https://truerevenuepartnerships.com/revenue-affiliate-os/) [![Find your 5 heavy hitters](https://img.shields.io/badge/FIND_YOUR_5_HEAVY_HITTERS-1F5B43?style=for-the-badge)](https://map.truerevenuepartnerships.com/demo/#start)
 
 <p><strong>SELF-INSTALLING · APPROVAL-GATED · RUNS ON A PRIVATE <a href="https://orgo.ai?r=aiguy">ORGO</a> COMPUTER · SLACK + TELEGRAM · A LIVING CARD FOR EVERY PARTNER</strong></p>
 
@@ -22,6 +22,10 @@
 </div>
 
 ## You don't need more leads. You need 5 heavy hitters.
+
+### Your next customer is already in someone else's CRM.
+
+Somebody else already paid for the traffic, built the trust, and owns the relationship. The Revenue Partnerships Program Manager is an AI workforce that finds those businesses, builds the relationships, and turns them into a revenue channel you own.
 
 Every customer you want is already doing business with someone else. They're in somebody else's CRM, somebody else's funnel, somebody else's audience. The trust is already built. You just haven't borrowed it yet.
 
@@ -61,7 +65,8 @@ The fix isn't a better template. It's memory. Every person, every partner, and e
 
 ## Meet your Revenue Partnerships Program Manager for [Orgo](https://orgo.ai?r=aiguy)
 
-<a href="https://github.com/jbellsolutions/affiliate-manager-agent"><img src="docs/assets/program/program-manager-hero.webp" width="640" alt="The Revenue Partnerships Program Manager coordinating a network of partners, affiliates, and referral sources"></a>
+<a href="https://truerevenuepartnerships.com/revenue-affiliate-os/"><img src="docs/assets/program/affiliate-os-video.webp" width="640" alt="Play the video: there's money sitting around your business right now"></a><br>
+<sub>Watch the video on the <a href="https://truerevenuepartnerships.com/revenue-affiliate-os/">Revenue Affiliate OS page</a>.</sub>
 
 It runs the whole partner channel, from first introduction to producing partner:
 
@@ -73,7 +78,7 @@ It runs the whole partner channel, from first introduction to producing partner:
 
 Self-installing and approval-gated, working from a private Orgo computer. Outreach, terms, payouts, and account access stay with a human.
 
-[**Get the agent →**](https://github.com/jbellsolutions/affiliate-manager-agent) · [**Start the walkthrough →**](https://github.com/jbellsolutions/affiliate-manager-agent/blob/main/START-HERE.md)
+[![Get your Revenue Partnerships Program Manager](https://img.shields.io/badge/GET_YOUR_REVENUE_PARTNERSHIPS_PROGRAM_MANAGER_%E2%86%92-2563EB?style=for-the-badge)](https://truerevenuepartnerships.com/revenue-affiliate-os/)
 
 ## Proof from the field
 
@@ -115,118 +120,23 @@ What the workforce looks like in real use. Names, contact details, and client in
 </tr>
 </table>
 
-[**See more proof →**](https://usingaitoscale.com/proof/)
+[![See more proof](https://img.shields.io/badge/SEE_MORE_PROOF_%E2%86%92-1F5B43?style=for-the-badge)](https://usingaitoscale.com/proof/)
 
-## Meet the AI Workforce
+## Lead Radar: find all the leads in your marketplace for pennies
 
-The Program Manager leads. The rest of the workforce plugs into it, and every agent is self-installing and approval-gated. Start with the job closest to revenue, then add the next one.
+Describe what you sell in plain English. Lead Radar searches Reddit, YouTube, TikTok, Instagram, Threads, LinkedIn, Facebook groups, Google and job boards for people publicly asking for it, and hands you a ranked list with each person's own words as proof. It never posts, comments, likes, or DMs. You decide who to contact.
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/jbellsolutions/affiliate-manager-agent"><img src="docs/assets/workforce/revenue-partnerships-program-manager.webp" width="100%" alt="Revenue Partnerships Program Manager, the relationship builder: recruits power partners, affiliates and creators, keeps a living relationship card for every partner, and activates, supports and reactivates the program"></a><br>
-<a href="https://github.com/jbellsolutions/affiliate-manager-agent"><strong>Get the agent →</strong></a>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/jbellsolutions/revenue-partner-orgo"><img src="docs/assets/workforce/revenue-partner.webp" width="100%" alt="Revenue Partner, the opportunity hunter: qualifies reactivation, outbound and partner leads and keeps proposals, pipeline and follow-up moving"></a><br>
-<a href="https://github.com/jbellsolutions/revenue-partner-orgo"><strong>Get the agent →</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/jbellsolutions/ai-guy-gtm-workforce"><img src="docs/assets/workforce/ai-guy-gtm-workforce.webp" width="100%" alt="AI Guy Go-to-Market Workforce, the outbound team: a Chief Sales Officer, cold email, replies and contextual SMS, and a clean CRM handoff"></a><br>
-<a href="https://github.com/jbellsolutions/ai-guy-gtm-workforce"><strong>Get the workforce →</strong></a>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/jbellsolutions/ai-cofounder-orgo"><img src="docs/assets/workforce/ai-cofounder.webp" width="100%" alt="AI Co-Founder, the strategist: sets priorities, coordinates a leadership team of agents, and delegates the work"></a><br>
-<a href="https://github.com/jbellsolutions/ai-cofounder-orgo"><strong>Get the agent →</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/jbellsolutions/go-to-market-orgo"><img src="docs/assets/workforce/go-to-market.webp" width="100%" alt="Go-to-Market, the demand creator: researches markets, runs campaigns and partnerships, and prepares proposals"></a><br>
-<a href="https://github.com/jbellsolutions/go-to-market-orgo"><strong>Get the agent →</strong></a>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/jbellsolutions/video-editor-content-ops-orgo"><img src="docs/assets/workforce/video-editor-content-ops.webp" width="100%" alt="Video Editor and Content Ops, the content producer: clean edits, clips, shorts, thumbnails and publishing drafts"></a><br>
-<a href="https://github.com/jbellsolutions/video-editor-content-ops-orgo"><strong>Get the agent →</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/jbellsolutions/operator-orgo"><img src="docs/assets/workforce/operator.webp" width="100%" alt="Operator and Project Manager: priorities, calendar, inbox, projects and dependable follow-through"></a><br>
-<a href="https://github.com/jbellsolutions/operator-orgo"><strong>Get the agent →</strong></a>
-</td>
-<td width="50%" valign="top" align="center">
-<a href="https://cal.com/usingaitoscale/github-ai-team-access"><img src="docs/assets/workforce/head-of-ops.webp" width="100%" alt="Head of Ops, the chief of staff: runs operations, proposals and follow-through and protects your time"></a><br>
-<a href="https://cal.com/usingaitoscale/github-ai-team-access"><strong>Request access →</strong></a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/jbellsolutions/lead-radar-kit"><img src="docs/assets/lead-radar/lead-gen-run.webp" width="100%" alt="A recorded Lead Radar run: 19 social leads asking for more leads and referrals, 4 high intent, $0.46 recorded cost, across Reddit, Threads, LinkedIn, and YouTube"></a>
+<sub>A recorded run. The quote on the right is an illustrative example, not a customer record.</sub>
 
-## How it works
+**From our own runs:**
 
-1. **Pick one business job.** Start with the revenue or operating loop where dropped work is already costing time or money.
-2. **Give the repository to a setup agent.** Codex, Claude Code, or another capable setup agent reads the included instructions and handles the technical work.
-3. **Prove the real handoff.** Launch the agent on [Orgo](https://orgo.ai?r=aiguy), connect only the tools you approve, and finish when a real Slack or Telegram message gets a verified response.
+- **19 people asking for more leads and referrals, for $0.46.** One 72-hour lookback, two search passes, across Reddit, Threads, LinkedIn, and YouTube.
+- **201 people asking for a virtual assistant, for $3.03.** Nineteen runs across eight platforms: about 1.5 cents a lead.
 
-The agent can research, organize, analyze, and prepare work inside its approved workspace. Sending, publishing, spending, changing customer records, inviting people, or widening permissions stops for human approval.
+Costs are the recorded search and AI spend for those runs. Hosting is extra.
 
-## The [Orgo](https://orgo.ai?r=aiguy) partner offer
-
-We worked out a deal with [Orgo](https://orgo.ai?r=aiguy) for AI Guy subscribers and customers: get **25% off your first three months on a monthly plan or your first year on a yearly plan. Add-ons are not discounted.**
-
-[**Claim the Orgo discount →**](https://orgo.ai?r=aiguy)
-
-## The offer: start with one channel and prove it
-
-The Revenue Partnerships Program Manager and its documentation are open source. The **Revenue Partner Kit** adds the complete training and preparation material. Start a **seven-day free trial** to get the implementation kickstart, weekly live builds, coaching, training, and support. Continuing membership is **$99/month** and can be cancelled anytime.
-
-[Orgo](https://orgo.ai?r=aiguy), model usage, and other third-party services are separate. The agents run on accounts you control, and private credentials or business context never belong in a public repository.
-
-[![Start with the Partner Kit](https://img.shields.io/badge/START_WITH_THE_PARTNER_KIT-2563EB?style=for-the-badge)](https://usingaitoscale.com/revenue-partner-kit/)
-
-## Want us to help install it?
-
-Use the included kickstart to choose the first job, load the business context, connect approved tools, and prove the agent works. For a larger implementation, an AI Integrator or AI Operator can help build and run the system with you.
-
-[**Get the Partner Kit + kickstart →**](https://usingaitoscale.com/revenue-partner-kit/) · [**Book an implementation conversation →**](https://cal.com/usingaitoscale/github-request-private-access)
-
-## Our Favorite Project: System One Workers
-
-### An AI workforce for the whole go-to-market
-
-One pod brings it together. An orchestrator interviews you, hires each worker, writes its charter, trains it on your SOPs, and supervises the work. Only you promote a worker to working on its own.
-
-[![Get early access to System One Workers](https://img.shields.io/badge/GET_EARLY_ACCESS_TO_SYSTEM_ONE_WORKERS-1F5B43?style=for-the-badge)](https://systemoneworkers.com/)
-
-- **Go-to-market workforce.** Revenue Partner tied in with partner recruiting, creator and influencer outreach, sponsors, and the follow-through that turns relationships into a revenue channel.
-- **Demand generation workforce.** Social accounts, each running in its own browser, sharing content, recruiting affiliates, and supporting capital raising.
-- **Memory you can open.** Every worker keeps its notes in an Obsidian vault, and every model call is metered.
-
-[![System One Workers: an AI partnership workforce that finds referral partners, affiliates, promoters, creators and sponsors](docs/assets/system-one-workers-site.webp)](https://systemoneworkers.com/)
-
-Now in an early-access pilot. [**See System One Workers →**](https://systemoneworkers.com/)
-
-## Our Favorite Repositories and Tools: Browser Box, Data Box & Lead Radar
-
-### Give your agent hands, data, and buyers
-
-**Three tools that work as one stack.** [Box Kit](https://github.com/jbellsolutions/box-kit) gives any AI agent a real browser and a single, cost-capped door to web data. Lead Radar turns that reach into a ranked list of people who are already asking for what you sell.
-
-[![Get Box Kit: Browser Box + Data Box](https://img.shields.io/badge/GET_BOX_KIT_%C2%B7_BROWSER_BOX_%2B_DATA_BOX-1F5B43?style=for-the-badge)](https://github.com/jbellsolutions/box-kit)
-
-One idea keeps getting sharper: give the agent the right tool for the job, keep the tool list honest, and keep consequential actions behind human approval.
-
-[![Browser Box and Data Box connect Claude Code, Codex, Hermes, or any MCP or HTTP agent to a self-hosted browser and a cost-capped data door, feeding Lead Radar, which turns one offer into ranked leads and drafted openers with human approval](docs/assets/box-kit-lead-radar-architecture.webp)](https://github.com/jbellsolutions/box-kit)
-
-1. **[Browser Box](https://github.com/jbellsolutions/box-kit)** · Public in Box Kit. One self-hosted browser behind one door. Read JavaScript pages, click, type, log in and stay logged in, take screenshots, or hand over a whole goal. If a tool is listed, it works. If it can't work right now, `status` says why.
-2. **[Data Box](https://github.com/jbellsolutions/box-kit)** · Public in Box Kit. One door to web data over MCP, HTTP, or the command line. Turn any public URL into markdown, text, HTML, or links for free, and plug in paid sources like Firecrawl, Bright Data, Decodo, and Apify with your own keys. Every paid call is capped before it runs and reports what it actually cost.
-3. **Lead Radar** · Private preview. Describe your offer in plain English and get ranked lists of people publicly asking for it across Reddit, YouTube, TikTok, Instagram, Threads, LinkedIn, Facebook groups, and Google. It never posts, comments, likes, or DMs. It drafts the opener, and a human sends it.
-
-Box Kit is free and open source (MIT). Run it on your own computer or server with your own keys.
-
-[**Get Box Kit →**](https://github.com/jbellsolutions/box-kit) · [**Request Lead Radar access →**](https://cal.com/usingaitoscale/github-request-private-access)
+[![Get Lead Radar](https://img.shields.io/badge/GET_LEAD_RADAR_%E2%86%92-1F5B43?style=for-the-badge)](https://github.com/jbellsolutions/lead-radar-kit)
 
 ## Our Favorite In-House Tool: Better Than GrokBot
 
@@ -241,6 +151,48 @@ Our self-hosted build of [Bops](https://bops.bot): a workforce of AI bots that r
 ### [Better Than GrokBot, Self-Hosted — See the Proof →](https://usingaitoscale.com/proof/)
 
 [**Request access to the self-hosted build →**](https://cal.com/usingaitoscale/github-request-private-access)
+
+## The [Orgo](https://orgo.ai?r=aiguy) partner offer
+
+We worked out a deal with [Orgo](https://orgo.ai?r=aiguy) for AI Guy subscribers and customers: get **25% off your first three months on a monthly plan or your first year on a yearly plan. Add-ons are not discounted.**
+
+[**Claim the Orgo discount →**](https://orgo.ai?r=aiguy)
+
+## Our Favorite Project: System One Workforce
+
+### An AI workforce for the whole go-to-market
+
+One pod brings it together. An orchestrator interviews you, hires each worker, writes its charter, trains it on your SOPs, and supervises the work. Only you promote a worker to working on its own.
+
+[![Get early access to System One Workforce](https://img.shields.io/badge/GET_EARLY_ACCESS_TO_SYSTEM_ONE_WORKFORCE-1F5B43?style=for-the-badge)](https://systemoneworkers.com/)
+
+- **Go-to-market workforce.** Revenue Partner tied in with partner recruiting, creator and influencer outreach, sponsors, and the follow-through that turns relationships into a revenue channel.
+- **Demand generation workforce.** Social accounts, each running in its own browser, sharing content, recruiting affiliates, and supporting capital raising.
+- **Memory you can open.** Every worker keeps its notes in an Obsidian vault, and every model call is metered.
+
+[![System One Workforce: an AI partnership workforce that finds referral partners, affiliates, promoters, creators and sponsors](docs/assets/system-one-workers-site.webp)](https://systemoneworkers.com/)
+
+Now in an early-access pilot. [**See System One Workforce →**](https://systemoneworkers.com/)
+
+## Our Favorite Repositories and Tools: Browser Box, Data Box & ScrapeBox
+
+### Give your agent hands, data, and buyers
+
+**Three tools that work as one stack.** [Box Kit](https://github.com/jbellsolutions/box-kit) gives any AI agent a real browser and a single, cost-capped door to web data. ScrapeBox scrapes the public web, one page or thousands.
+
+[![Get Box Kit: Browser Box + Data Box](https://img.shields.io/badge/GET_BOX_KIT_%C2%B7_BROWSER_BOX_%2B_DATA_BOX-1F5B43?style=for-the-badge)](https://github.com/jbellsolutions/box-kit)
+
+One idea keeps getting sharper: give the agent the right tool for the job, keep the tool list honest, and keep consequential actions behind human approval.
+
+[![Browser Box and Data Box connect Claude Code, Codex, Hermes, or any MCP or HTTP agent to a self-hosted browser and a cost-capped data door, feeding Lead Radar, which turns one offer into ranked leads and drafted openers with human approval](docs/assets/box-kit-lead-radar-architecture.webp)](https://github.com/jbellsolutions/box-kit)
+
+1. **[Browser Box](https://github.com/jbellsolutions/box-kit)** · Public in Box Kit. One self-hosted browser behind one door. Read JavaScript pages, click, type, log in and stay logged in, take screenshots, or hand over a whole goal. If a tool is listed, it works. If it can't work right now, `status` says why.
+2. **[Data Box](https://github.com/jbellsolutions/box-kit)** · Public in Box Kit. One door to web data over MCP, HTTP, or the command line. Turn any public URL into markdown, text, HTML, or links for free, and plug in paid sources like Firecrawl, Bright Data, Decodo, and Apify with your own keys. Every paid call is capped before it runs and reports what it actually cost.
+3. **ScrapeBox** · Private preview. Scrape the public web, one page or thousands. It reads each page the cheapest way that works and only climbs to paid sources when it has to. Scrapers are built once and run many times, and every paid call is capped.
+
+Box Kit is free and open source (MIT). Run it on your own computer or server with your own keys.
+
+[**Get Box Kit →**](https://github.com/jbellsolutions/box-kit) · [**Request ScrapeBox access →**](https://cal.com/usingaitoscale/github-request-private-access)
 
 ## About Justin
 
